@@ -1,0 +1,853 @@
+{
+    "links": [
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "101",
+            "size": 1.0,
+            "source": "14",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "104",
+            "size": 1.0,
+            "source": "17",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "113",
+            "size": 1.0,
+            "source": "26",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "131",
+            "size": 1.0,
+            "source": "44",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "96",
+            "size": 1.0,
+            "source": "9",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "99",
+            "size": 1.0,
+            "source": "12",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "120",
+            "size": 1.0,
+            "source": "33",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "110",
+            "size": 1.0,
+            "source": "23",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "117",
+            "size": 1.0,
+            "source": "30",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "95",
+            "size": 1.0,
+            "source": "8",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "114",
+            "size": 1.0,
+            "source": "27",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "119",
+            "size": 1.0,
+            "source": "32",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "100",
+            "size": 1.0,
+            "source": "13",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "88",
+            "size": 1.0,
+            "source": "1",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "97",
+            "size": 1.0,
+            "source": "10",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "118",
+            "size": 1.0,
+            "source": "31",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "128",
+            "size": 1.0,
+            "source": "41",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "103",
+            "size": 1.0,
+            "source": "16",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "91",
+            "size": 1.0,
+            "source": "4",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "126",
+            "size": 1.0,
+            "source": "39",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "127",
+            "size": 1.0,
+            "source": "40",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "111",
+            "size": 1.0,
+            "source": "24",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "106",
+            "size": 1.0,
+            "source": "19",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "90",
+            "size": 1.0,
+            "source": "3",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "94",
+            "size": 1.0,
+            "source": "7",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "89",
+            "size": 1.0,
+            "source": "2",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "112",
+            "size": 1.0,
+            "source": "25",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "98",
+            "size": 1.0,
+            "source": "11",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "121",
+            "size": 1.0,
+            "source": "34",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "130",
+            "size": 1.0,
+            "source": "43",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "105",
+            "size": 1.0,
+            "source": "18",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "124",
+            "size": 1.0,
+            "source": "37",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "115",
+            "size": 1.0,
+            "source": "28",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "108",
+            "size": 1.0,
+            "source": "21",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "102",
+            "size": 1.0,
+            "source": "15",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "92",
+            "size": 1.0,
+            "source": "5",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "122",
+            "size": 1.0,
+            "source": "35",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "129",
+            "size": 1.0,
+            "source": "42",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "93",
+            "size": 1.0,
+            "source": "6",
+            "target": "1"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "107",
+            "size": 1.0,
+            "source": "20",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "123",
+            "size": 1.0,
+            "source": "36",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "116",
+            "size": 1.0,
+            "source": "29",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "125",
+            "size": 1.0,
+            "source": "38",
+            "target": "0"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "109",
+            "size": 1.0,
+            "source": "22",
+            "target": "0"
+        }
+    ],
+    "nodes": [
+        {
+            "attributes": {
+                "description": "Orwell names Gollancz as someone who should support IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "11",
+            "label": "Victor Gollancz",
+            "size": 10.0,
+            "x": 34.346622467041016,
+            "y": -412.4505920410156
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell as 'crypto-communist'"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "22",
+            "label": "Sean O'Casey",
+            "size": 10.0,
+            "x": -153.53207397460938,
+            "y": -119.45337677001953
+        },
+        {
+            "attributes": {
+                "description": "Ran Psychological Warfare Workshops for the OPC"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "28",
+            "label": "Joseph Bryan III",
+            "size": 10.0,
+            "x": 198.92730712890625,
+            "y": 494.5194091796875
+        },
+        {
+            "attributes": {
+                "description": "Covert ideological defence against the Soviet Union in the Cold War. Used the weapon of 'grey’ propaganda, whereby deliberately slanted, non-attributable information was produced and disseminated to influential elites. Propagandists included speechwriters, broadcasters, journalists, and politicians."
+            },
+            "color": "rgb(255,255,255)",
+            "id": "31",
+            "label": "Information Research Department",
+            "size": 10.0,
+            "x": 139.19281005859375,
+            "y": -208.59400939941406
+        },
+        {
+            "attributes": {
+                "description": "Orwell declares Young a Communist to Kirwan"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "8",
+            "label": "Naval Commander Young",
+            "size": 10.0,
+            "x": -498.1155090332031,
+            "y": -328.76251220703125
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in his list to the IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "38",
+            "label": "James Gerald Crowther",
+            "size": 10.0,
+            "x": -13.594050407409668,
+            "y": -92.89838409423828
+        },
+        {
+            "attributes": {
+                "description": "Deputy Editor for the Telegraph, IRD member"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "19",
+            "label": "Malcom Muggeride",
+            "size": 10.0,
+            "x": 100.87128448486328,
+            "y": 468.89678955078125
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell as 'crypto-communist'"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "25",
+            "label": "Michael Redgrave",
+            "size": 10.0,
+            "x": -76.13567352294922,
+            "y": -332.8807373046875
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in his list to the IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "35",
+            "label": "Patrick Maynard Stuart Blackett",
+            "size": 10.0,
+            "x": -28.71517562866211,
+            "y": 91.83458709716797
+        },
+        {
+            "attributes": {
+                "description": "Introduced Orwell to Celia Kirwan in 1945"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "1",
+            "label": "Arthur Koestler",
+            "size": 10.0,
+            "x": 159.32830810546875,
+            "y": -232.93858337402344
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell as 'crypto-communist'"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "26",
+            "label": "Kingsley Martin",
+            "size": 10.0,
+            "x": -471.3782653808594,
+            "y": 329.61407470703125
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in his list to the IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "41",
+            "label": "Walter Duranty",
+            "size": 10.0,
+            "x": 97.74707794189453,
+            "y": 111.15666961669922
+        },
+        {
+            "attributes": {
+                "description": "Orwell writes to Kirwan about the collusion of Zionists with the Soviets"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "9",
+            "label": "Ana Pauker",
+            "size": 10.0,
+            "x": -354.6837158203125,
+            "y": 444.29779052734375
+        },
+        {
+            "attributes": {
+                "description": "Orwell thinks of him as a fit alternative to himself as a writer"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "3",
+            "label": "Cyril Dean Darlington",
+            "size": 10.0,
+            "x": 464.004638671875,
+            "y": 258.18017578125
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in his list to the IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "40",
+            "label": "Isaac Deutscher",
+            "size": 10.0,
+            "x": 20.725589752197266,
+            "y": 316.772216796875
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in his list to the IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "43",
+            "label": "Cedric Cyril Dover",
+            "size": 10.0,
+            "x": -351.9582824707031,
+            "y": -168.6934051513672
+        },
+        {
+            "attributes": {
+                "description": "Orwell suggests to Kirwan that Gollancz is undoubtedly the man to publish the kind of books being planned"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "5",
+            "label": "Victor Gollancz",
+            "size": 10.0,
+            "x": -206.291748046875,
+            "y": 266.25982666015625
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in his list to the IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "44",
+            "label": "Douglas Goldring",
+            "size": 10.0,
+            "x": -414.28570556640625,
+            "y": -357.65179443359375
+        },
+        {
+            "attributes": {
+                "description": "Orwell connection to IRD. Orwell writes, 'I understood, more clearly than ever, the negative influence of the Soviet myth upon the western Socialist movement.'"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "10",
+            "label": "Celia Kirwan",
+            "size": 10.0,
+            "x": -227.32290649414062,
+            "y": -401.571533203125
+        },
+        {
+            "attributes": {
+                "description": "Was saddened to learn that Orwell 'gave in' to the pressures of an intelligence service that was 'actually like the CIA and the KGB'.’"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "13",
+            "label": "Tony Benn",
+            "size": 10.0,
+            "x": 184.34942626953125,
+            "y": -417.34918212890625
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in his list to the IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "37",
+            "label": "Charles Spencer Chaplin Junior",
+            "size": 10.0,
+            "x": 292.441650390625,
+            "y": 391.0445556640625
+        },
+        {
+            "attributes": {
+                "description": "Adominshes Orwell's connection to IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "12",
+            "label": "Michael Foot",
+            "size": 10.0,
+            "x": 5.136296272277832,
+            "y": -264.447998046875
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell as 'crypto-communist'"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "24",
+            "label": "Paul Robeson",
+            "size": 10.0,
+            "x": 204.12396240234375,
+            "y": 44.08068084716797
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell as 'crypto-communist'"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "20",
+            "label": "J. B. Priestley",
+            "size": 10.0,
+            "x": -33.348934173583984,
+            "y": -198.96250915527344
+        },
+        {
+            "attributes": {
+                "description": "Fought for Animal Farm to be published"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "30",
+            "label": "Fredic Warburg",
+            "size": 10.0,
+            "x": 316.002197265625,
+            "y": -181.34776306152344
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in letter to Kirwan"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "14",
+            "label": "D'Arcy Gillie",
+            "size": 10.0,
+            "x": 5.034245491027832,
+            "y": -301.39239501953125
+        },
+        {
+            "attributes": {
+                "description": "Wrote for IRD, published by Orwell"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "16",
+            "label": "Bertrand Russell",
+            "size": 10.0,
+            "x": -275.7099609375,
+            "y": -73.76016998291016
+        },
+        {
+            "attributes": {
+                "description": "Orwell's wife"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "29",
+            "label": "Sonia Blair",
+            "size": 10.0,
+            "x": 46.114933013916016,
+            "y": 410.6043701171875
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in his list to the IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "36",
+            "label": "Edward Hallet Carr",
+            "size": 10.0,
+            "x": 333.60107421875,
+            "y": 216.14695739746094
+        },
+        {
+            "attributes": {
+                "description": "Wrote to Orwell"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "18",
+            "label": "V. Puchev",
+            "size": 10.0,
+            "x": 210.4044189453125,
+            "y": 361.89892578125
+        },
+        {
+            "attributes": {
+                "description": "Warned Orwell against publishing Animal Farm 'at this time'"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "27",
+            "label": "T. S. Eliot",
+            "size": 10.0,
+            "x": 213.427490234375,
+            "y": 401.82794189453125
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell as 'crypto-communist'"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "21",
+            "label": "Cecil Day Lewis",
+            "size": 10.0,
+            "x": 287.186279296875,
+            "y": 460.73974609375
+        },
+        {
+            "attributes": {
+                "description": "Wrote for IRD, published by Orwell"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "17",
+            "label": "Vic Feather",
+            "size": 10.0,
+            "x": -268.3882141113281,
+            "y": -200.1841278076172
+        },
+        {
+            "attributes": {
+                "description": "Orwell thinks of him as a fit alternative to himself as a writer"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "2",
+            "label": "D'Arcy Gillie",
+            "size": 10.0,
+            "x": -192.22723388671875,
+            "y": -108.44889068603516
+        },
+        {
+            "attributes": {
+                "description": "Orwell thinks of him as a fit alternative to himself as a writer"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "4",
+            "label": "Franz Borkenau",
+            "size": 10.0,
+            "x": -130.7286376953125,
+            "y": 486.05157470703125
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in his list to the IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "34",
+            "label": "John Beavan, Baron Ardwick",
+            "size": 10.0,
+            "x": -3.163233757019043,
+            "y": -45.878089904785156
+        },
+        {
+            "attributes": {
+                "description": "Orwell writes to Kirwan and suggests Struve as a possible writer for the IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "7",
+            "label": "Gleb Struve",
+            "size": 10.0,
+            "x": -226.860107421875,
+            "y": -398.9730529785156
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in letter to Kirwan"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "15",
+            "label": "Gleb Struve",
+            "size": 10.0,
+            "x": 276.956787109375,
+            "y": 328.36627197265625
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell as 'crypto-communist'"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "23",
+            "label": "Orson Welles",
+            "size": 10.0,
+            "x": 328.13775634765625,
+            "y": -355.4039306640625
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in his list to the IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "33",
+            "label": "Guy Alfred Aldred",
+            "size": 10.0,
+            "x": 65.37506866455078,
+            "y": 220.93516540527344
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in his list to the IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "39",
+            "label": "Arthur Calder-Marshall",
+            "size": 10.0,
+            "x": -499.1845703125,
+            "y": 369.2803955078125
+        },
+        {
+            "attributes": {
+                "description": "Pen name of Eric Arthur Blair (1903–1950)"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "0",
+            "label": "George Orwell",
+            "size": 10.0,
+            "x": -43.606380462646484,
+            "y": 370.510009765625
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in his list to the IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "42",
+            "label": "Tom Driberg",
+            "size": 10.0,
+            "x": -299.1042175292969,
+            "y": -269.187255859375
+        },
+        {
+            "attributes": {
+                "description": "Gollancz corresponded with Koestler about Spain in the 1930s. In 1955 set up the National Campaign for Prevention of Legal Cruelty with Koestler and John Collins"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "6",
+            "label": "Victor Gollancz",
+            "size": 10.0,
+            "x": -436.6070556640625,
+            "y": 366.4921875
+        },
+        {
+            "attributes": {
+                "description": "Named by Orwell in his list to the IRD"
+            },
+            "color": "rgb(255,255,255)",
+            "id": "32",
+            "label": "John Anderson",
+            "size": 10.0,
+            "x": -209.25442504882812,
+            "y": -92.6283950805664
+        }
+    ]
+}
