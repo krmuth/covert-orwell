@@ -1,5 +1,11 @@
 <head>
   <style> body { margin: 0; } </style>
+  <style> .scene-tooltip { 
+                        color: yellow !important; 
+                        background-color: black !important;
+                        padding:  5px !important;
+                      } 
+  </style>
 
   <script src="//unpkg.com/three"></script>
   <script src="//unpkg.com/three-spritetext"></script>
@@ -16,7 +22,7 @@
       (document.getElementById('3d-graph'))
         .jsonUrl('https://raw.githubusercontent.com/krmuth/orwell.node/master/visualisations/datasets/orwell-test4.json')
         .nodeAutoColorBy('group')
-        .nodeLabel(node => `${node.description}`)
+        .nodeLabel(node => `${node.attributes.description}`)
         .nodeThreeObject(node => {
           // use a sphere as a drag handle
           const obj = new THREE.Mesh(
