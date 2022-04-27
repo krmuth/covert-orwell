@@ -16,6 +16,7 @@
       (document.getElementById('3d-graph'))
         .jsonUrl('https://raw.githubusercontent.com/krmuth/orwell.node/master/visualisations/datasets/orwell-test4.json')
         .nodeAutoColorBy('group')
+        .nodeLabel(node => `${node.description}`)
         .nodeThreeObject(node => {
           // use a sphere as a drag handle
           const obj = new THREE.Mesh(
