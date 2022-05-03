@@ -1,0 +1,4397 @@
+{
+    "links": [
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "643",
+            "size": 1.0,
+            "source": "271",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "735",
+            "size": 1.0,
+            "source": "321",
+            "target": "348"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "726",
+            "size": 1.0,
+            "source": "354",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "716",
+            "size": 1.0,
+            "source": "344",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "670",
+            "size": 1.0,
+            "source": "298",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "657",
+            "size": 1.0,
+            "source": "132",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "656",
+            "size": 1.0,
+            "source": "284",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "712",
+            "size": 1.0,
+            "source": "340",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "727",
+            "size": 1.0,
+            "source": "355",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "719",
+            "size": 1.0,
+            "source": "347",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "677",
+            "size": 1.0,
+            "source": "305",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "689",
+            "size": 1.0,
+            "source": "317",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "717",
+            "size": 1.0,
+            "source": "345",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "736",
+            "size": 1.0,
+            "source": "364",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "671",
+            "size": 1.0,
+            "source": "299",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "667",
+            "size": 1.0,
+            "source": "295",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "648",
+            "size": 1.0,
+            "source": "276",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "695",
+            "size": 1.0,
+            "source": "323",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "665",
+            "size": 1.0,
+            "source": "146",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "700",
+            "size": 1.0,
+            "source": "328",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "660",
+            "size": 1.0,
+            "source": "288",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "647",
+            "size": 1.0,
+            "source": "241",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "639",
+            "size": 1.0,
+            "source": "267",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "694",
+            "size": 1.0,
+            "source": "321",
+            "target": "317"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "686",
+            "size": 1.0,
+            "source": "314",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "742",
+            "size": 1.0,
+            "source": "370",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "693",
+            "size": 1.0,
+            "source": "321",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "723",
+            "size": 1.0,
+            "source": "351",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "734",
+            "size": 1.0,
+            "source": "362",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "707",
+            "size": 1.0,
+            "source": "335",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "701",
+            "size": 1.0,
+            "source": "329",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "653",
+            "size": 1.0,
+            "source": "281",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "658",
+            "size": 1.0,
+            "source": "286",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "663",
+            "size": 1.0,
+            "source": "291",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "640",
+            "size": 1.0,
+            "source": "268",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "743",
+            "size": 1.0,
+            "source": "371",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "682",
+            "size": 1.0,
+            "source": "310",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "644",
+            "size": 1.0,
+            "source": "272",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "708",
+            "size": 1.0,
+            "source": "336",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "733",
+            "size": 1.0,
+            "source": "361",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "718",
+            "size": 1.0,
+            "source": "346",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "681",
+            "size": 1.0,
+            "source": "309",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "666",
+            "size": 1.0,
+            "source": "294",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "679",
+            "size": 1.0,
+            "source": "307",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "729",
+            "size": 1.0,
+            "source": "357",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "725",
+            "size": 1.0,
+            "source": "353",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "721",
+            "size": 1.0,
+            "source": "349",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "661",
+            "size": 1.0,
+            "source": "289",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "691",
+            "size": 1.0,
+            "source": "319",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "715",
+            "size": 1.0,
+            "source": "343",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "722",
+            "size": 1.0,
+            "source": "350",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "642",
+            "size": 1.0,
+            "source": "270",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "654",
+            "size": 1.0,
+            "source": "120",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "713",
+            "size": 1.0,
+            "source": "341",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "690",
+            "size": 1.0,
+            "source": "318",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "706",
+            "size": 1.0,
+            "source": "334",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "646",
+            "size": 1.0,
+            "source": "240",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "696",
+            "size": 1.0,
+            "source": "324",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "697",
+            "size": 1.0,
+            "source": "325",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "737",
+            "size": 1.0,
+            "source": "365",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "649",
+            "size": 1.0,
+            "source": "277",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "714",
+            "size": 1.0,
+            "source": "342",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "664",
+            "size": 1.0,
+            "source": "144",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "739",
+            "size": 1.0,
+            "source": "367",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "741",
+            "size": 1.0,
+            "source": "369",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "645",
+            "size": 1.0,
+            "source": "239",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "650",
+            "size": 1.0,
+            "source": "278",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "638",
+            "size": 1.0,
+            "source": "266",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "724",
+            "size": 1.0,
+            "source": "352",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "688",
+            "size": 1.0,
+            "source": "21",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "698",
+            "size": 1.0,
+            "source": "326",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "652",
+            "size": 1.0,
+            "source": "280",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "730",
+            "size": 1.0,
+            "source": "358",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "728",
+            "size": 1.0,
+            "source": "356",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "710",
+            "size": 1.0,
+            "source": "338",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "692",
+            "size": 1.0,
+            "source": "320",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "651",
+            "size": 1.0,
+            "source": "279",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "680",
+            "size": 1.0,
+            "source": "308",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "687",
+            "size": 1.0,
+            "source": "315",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "659",
+            "size": 1.0,
+            "source": "287",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "668",
+            "size": 1.0,
+            "source": "296",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "678",
+            "size": 1.0,
+            "source": "306",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "732",
+            "size": 1.0,
+            "source": "360",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "740",
+            "size": 1.0,
+            "source": "367",
+            "target": "362"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "720",
+            "size": 1.0,
+            "source": "348",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "731",
+            "size": 1.0,
+            "source": "359",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "709",
+            "size": 1.0,
+            "source": "337",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "705",
+            "size": 1.0,
+            "source": "333",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "711",
+            "size": 1.0,
+            "source": "339",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,20,147)",
+            "id": "704",
+            "size": 1.0,
+            "source": "332",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(192,192,192)",
+            "id": "669",
+            "size": 1.0,
+            "source": "165",
+            "target": "380"
+        }
+    ],
+    "nodes": [
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "28",
+            "label": "Brown, John Mason, 1900-1969",
+            "size": 10.0,
+            "x": -858.5692138671875,
+            "y": -726.2201538085938
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "236",
+            "label": "Crowell-Collier Publishing Company.",
+            "size": 10.0,
+            "x": 1019.9130859375,
+            "y": -733.593994140625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "266",
+            "label": "Danielson, Richard Ely, 1885-1957.",
+            "size": 10.0,
+            "x": -51.62372589111328,
+            "y": 203.27850341796875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "314",
+            "label": "Walcutt, Sue.",
+            "size": 10.0,
+            "x": -149.43919372558594,
+            "y": 131.98660278320312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "324",
+            "label": "Naval Commander Young",
+            "size": 10.0,
+            "x": 165.47445678710938,
+            "y": -51.3726806640625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "69",
+            "label": "Graves, Robert Windham, 1858-1934",
+            "size": 10.0,
+            "x": -795.7866821289062,
+            "y": -262.14068603515625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "336",
+            "label": "J. B. Priestley",
+            "size": 10.0,
+            "x": -85.56204986572266,
+            "y": -134.49658203125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "25",
+            "label": "Brodsky, Joseph, 1940-1996.",
+            "size": 10.0,
+            "x": 746.67724609375,
+            "y": 124.43862915039062
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "55",
+            "label": "English Department",
+            "size": 10.0,
+            "x": -604.5007934570312,
+            "y": -432.52886962890625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "201",
+            "label": "The Conference on Literature and Urban Experience (CLUE), Rutgers University Newark",
+            "size": 10.0,
+            "x": -402.7010803222656,
+            "y": 898.2160034179688
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "157",
+            "label": "Peake, Mervyn Laurence, 1911-1968",
+            "size": 10.0,
+            "x": -795.915771484375,
+            "y": 10.492916107177734
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "261",
+            "label": "Polanyi, Michael, 1891-1976.",
+            "size": 10.0,
+            "x": 1120.866455078125,
+            "y": -80.63532257080078
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "352",
+            "label": "Edward Hallet Carr",
+            "size": 10.0,
+            "x": -44.0737190246582,
+            "y": 106.94044494628906
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "61",
+            "label": "Frost, Robert, 1874-1963.",
+            "size": 10.0,
+            "x": -808.393798828125,
+            "y": 163.25662231445312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "126",
+            "label": "Marshall, Lenore, 1897-1971.",
+            "size": 10.0,
+            "x": -836.74853515625,
+            "y": -916.115478515625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "130",
+            "label": "Miller, Charles H. (Charles Henry)",
+            "size": 10.0,
+            "x": -566.14599609375,
+            "y": 1118.394287109375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "50",
+            "label": "Dyment, Clifford, 1914-1971.",
+            "size": 10.0,
+            "x": -303.0577697753906,
+            "y": 796.1288452148438
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "17",
+            "label": "Berman, Eugene, 1899-",
+            "size": 10.0,
+            "x": 175.70217895507812,
+            "y": -868.095458984375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "161",
+            "label": "Pound, Ezra, 1885-1972.",
+            "size": 10.0,
+            "x": 675.5066528320312,
+            "y": -365.31536865234375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "1",
+            "label": "American Academy of Arts and Letters",
+            "size": 10.0,
+            "x": 135.80734252929688,
+            "y": 1032.0072021484375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "11",
+            "label": "Barzun, Jacques, 1907-",
+            "size": 10.0,
+            "x": 279.59283447265625,
+            "y": -1231.3885498046875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "369",
+            "label": "John Macmurray",
+            "size": 10.0,
+            "x": 90.5438461303711,
+            "y": -182.11521911621094
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "182",
+            "label": "Schneider, Isidor, b. 1896.",
+            "size": 10.0,
+            "x": 729.8981323242188,
+            "y": 862.9285888671875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "228",
+            "label": "Woolf, Virginia, 1882-1941.",
+            "size": 10.0,
+            "x": -814.0382690429688,
+            "y": 612.1505737304688
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "68",
+            "label": "Grand Theatre Collection (University of Guelph)",
+            "size": 10.0,
+            "x": 372.517578125,
+            "y": 1069.1712646484375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "192",
+            "label": "Spender, Natasha.",
+            "size": 10.0,
+            "x": 1247.7701416015625,
+            "y": 133.828125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "19",
+            "label": "Betjeman, John, 1906-1984.",
+            "size": 10.0,
+            "x": 1076.415283203125,
+            "y": 644.3714599609375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "42",
+            "label": "Dana, Robert, 1929-.",
+            "size": 10.0,
+            "x": -1062.500244140625,
+            "y": 667.9258422851562
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "70",
+            "label": "Griffin, Howard, 1915-1975.",
+            "size": 10.0,
+            "x": -793.5277099609375,
+            "y": 972.4378051757812
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "193",
+            "label": "Spender, Stephen",
+            "size": 10.0,
+            "x": 80.74774932861328,
+            "y": -1125.0906982421875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "67",
+            "label": "Golding, Louis, 1895-",
+            "size": 10.0,
+            "x": -1257.2864990234375,
+            "y": -101.01558685302734
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "251",
+            "label": "Leggett, John, 1917- ,",
+            "size": 10.0,
+            "x": 281.376708984375,
+            "y": -685.4693603515625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "342",
+            "label": "Kingsley Martin",
+            "size": 10.0,
+            "x": -64.3558578491211,
+            "y": 163.34115600585938
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "354",
+            "label": "James Gerald Crowther",
+            "size": 10.0,
+            "x": -193.177001953125,
+            "y": 31.659658432006836
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "356",
+            "label": "Isaac Deutscher",
+            "size": 10.0,
+            "x": 202.73057556152344,
+            "y": -24.761554718017578
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "104",
+            "label": "King, Francis Henry.",
+            "size": 10.0,
+            "x": 873.145751953125,
+            "y": -178.5070343017578
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "35",
+            "label": "Crane, Hart, 1899-1932.",
+            "size": 10.0,
+            "x": 47.55492401123047,
+            "y": 920.4514770507812
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "217",
+            "label": "Whittemore, Reed, 1919-",
+            "size": 10.0,
+            "x": 1095.02001953125,
+            "y": -616.612060546875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "16",
+            "label": "Benét, William Rose, 1886-1950.",
+            "size": 10.0,
+            "x": 811.677490234375,
+            "y": -286.31927490234375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "252",
+            "label": "Lewis, C[laude?]",
+            "size": 10.0,
+            "x": -712.3255615234375,
+            "y": -496.9073791503906
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "159",
+            "label": "Pierpont Morgan Library. Rewald Collection.",
+            "size": 10.0,
+            "x": 823.1257934570312,
+            "y": 343.52947998046875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "335",
+            "label": "Malcom Muggeride",
+            "size": 10.0,
+            "x": -154.53421020507812,
+            "y": 13.51693058013916
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "232",
+            "label": "American Museum of Vaudeville",
+            "size": 10.0,
+            "x": 1144.9130859375,
+            "y": -496.8556823730469
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "178",
+            "label": "Saillet, Maurice.",
+            "size": 10.0,
+            "x": 634.83740234375,
+            "y": 40.91765213012695
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "298",
+            "label": "Reginald, R.",
+            "size": 10.0,
+            "x": 146.88328552246094,
+            "y": 63.0041618347168
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "291",
+            "label": "Nelson, Steve, 1903-",
+            "size": 10.0,
+            "x": 77.84683990478516,
+            "y": 135.08099365234375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "59",
+            "label": "Fredericks, Claude.",
+            "size": 10.0,
+            "x": 977.1201171875,
+            "y": 545.4043579101562
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "344",
+            "label": "Joseph Bryan III",
+            "size": 10.0,
+            "x": -196.0615692138672,
+            "y": -90.68849182128906
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "26",
+            "label": "Brown, Ashley, 1923-",
+            "size": 10.0,
+            "x": 923.5126342773438,
+            "y": -382.5307312011719
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "320",
+            "label": "Franz Borkenau",
+            "size": 10.0,
+            "x": -8.008769035339355,
+            "y": 215.0682830810547
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "255",
+            "label": "McNeilly, Donald, 1945-",
+            "size": 10.0,
+            "x": -551.2334594726562,
+            "y": -980.8175659179688
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "280",
+            "label": "Leab, Daniel J.",
+            "size": 10.0,
+            "x": 25.75810432434082,
+            "y": -161.94383239746094
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "51",
+            "label": "Eberhart, Richard, 1904-2005.",
+            "size": 10.0,
+            "x": -330.41754150390625,
+            "y": -821.6588134765625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "0",
+            "label": "Adelman, Seymour, 1906-",
+            "size": 10.0,
+            "x": -675.8842163085938,
+            "y": 920.6983642578125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "176",
+            "label": "Sadler, Sir Michael Ernest, 1861-1943",
+            "size": 10.0,
+            "x": 1112.1033935546875,
+            "y": 175.28939819335938
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "227",
+            "label": "Woolf, Virginia, 1882-1941",
+            "size": 10.0,
+            "x": -82.74446105957031,
+            "y": 907.7385864257812
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "88",
+            "label": "Henriques, Robert",
+            "size": 10.0,
+            "x": 230.41726684570312,
+            "y": 1108.6441650390625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "99",
+            "label": "Jarrell, Randall, 1914-1965.",
+            "size": 10.0,
+            "x": -717.74365234375,
+            "y": 695.8948974609375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "40",
+            "label": "Cunningham, Imogen, 1883-1976.",
+            "size": 10.0,
+            "x": 1253.8173828125,
+            "y": 0.0697334036231041
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "359",
+            "label": "Cedric Cyril Dover",
+            "size": 10.0,
+            "x": 21.987367630004883,
+            "y": -123.381103515625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "71",
+            "label": "Griffith, Llewelyn Wyn, 1884-",
+            "size": 10.0,
+            "x": 836.5014038085938,
+            "y": 758.6739501953125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "222",
+            "label": "Witt-Diamant, Ruth.",
+            "size": 10.0,
+            "x": 351.9993591308594,
+            "y": -1064.8172607421875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "233",
+            "label": "Aronson, Lester R. (Lester Ralph), 1911-",
+            "size": 10.0,
+            "x": -686.807861328125,
+            "y": -333.6519775390625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "167",
+            "label": "Pudney, John, 1909-1977",
+            "size": 10.0,
+            "x": 1226.3187255859375,
+            "y": 267.4366149902344
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "270",
+            "label": "Fedotoff-White, D., (Dmitriĭ), 1889-1950.",
+            "size": 10.0,
+            "x": -17.96106719970703,
+            "y": -122.2121810913086
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "110",
+            "label": "Leavis, F.R. (Frank Raymond), 1895-",
+            "size": 10.0,
+            "x": 195.4859161376953,
+            "y": 745.799560546875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "276",
+            "label": "Fuller, Roy, 1912-1991.",
+            "size": 10.0,
+            "x": 187.49188232421875,
+            "y": 55.71158218383789
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "6",
+            "label": "Arts Council of Great Britain.",
+            "size": 10.0,
+            "x": 314.2344970703125,
+            "y": 693.6273193359375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "146",
+            "label": "New Yorker Magazine, Inc",
+            "size": 10.0,
+            "x": -119.66989135742188,
+            "y": -117.54177856445312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "169",
+            "label": "Random House (Firm)",
+            "size": 10.0,
+            "x": -920.0046997070312,
+            "y": -208.9510040283203
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "263",
+            "label": "Souvarine, Boris.",
+            "size": 10.0,
+            "x": 516.8963623046875,
+            "y": -1138.76953125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "78",
+            "label": "Hagstrum, Jean H., 1913-1995",
+            "size": 10.0,
+            "x": -1123.3896484375,
+            "y": 554.571533203125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "144",
+            "label": "New Directions Publishing Corp.",
+            "size": 10.0,
+            "x": 157.61581420898438,
+            "y": 134.51243591308594
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "199",
+            "label": "Targ, William, 1907-",
+            "size": 10.0,
+            "x": 501.97930908203125,
+            "y": 1013.2048950195312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "129",
+            "label": "McCarthy, Mary, 1912-1989.",
+            "size": 10.0,
+            "x": 602.0091552734375,
+            "y": 792.767578125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "349",
+            "label": "Guy Alfred Aldred",
+            "size": 10.0,
+            "x": -196.2063751220703,
+            "y": 70.52654266357422
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "307",
+            "label": "Symons, Julian, 1912-",
+            "size": 10.0,
+            "x": 196.01963806152344,
+            "y": 16.97245979309082
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "370",
+            "label": "Basil Kingsley Martin",
+            "size": 10.0,
+            "x": 163.59278869628906,
+            "y": -137.42173767089844
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "84",
+            "label": "Heddington, Jack.",
+            "size": 10.0,
+            "x": -87.01148986816406,
+            "y": 1136.952880859375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "120",
+            "label": "Macdonald, Dwight.",
+            "size": 10.0,
+            "x": 103.77342224121094,
+            "y": 82.7616958618164
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "203",
+            "label": "Thomas, Dylan, 1914-1953.",
+            "size": 10.0,
+            "x": 933.8182373046875,
+            "y": -835.341552734375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "187",
+            "label": "Shelley, Philip Allison, 1907-",
+            "size": 10.0,
+            "x": -750.4968872070312,
+            "y": -1008.3694458007812
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "218",
+            "label": "Williams, Oscar, 1900-1964.",
+            "size": 10.0,
+            "x": 617.013916015625,
+            "y": 1092.114990234375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "240",
+            "label": "Foley, Donald L.",
+            "size": 10.0,
+            "x": 135.37460327148438,
+            "y": -77.28263854980469
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "33",
+            "label": "Cleverdon, Douglas.",
+            "size": 10.0,
+            "x": -797.0358276367188,
+            "y": -400.0166320800781
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "123",
+            "label": "MacNeice, Louis, 1907-1963.",
+            "size": 10.0,
+            "x": 502.6285400390625,
+            "y": 866.4506225585938
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "134",
+            "label": "Mitgang, Herbert.",
+            "size": 10.0,
+            "x": 709.0051879882812,
+            "y": 398.3478088378906
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "210",
+            "label": "Wallenberg, Raoul, 1912-1947.",
+            "size": 10.0,
+            "x": 1245.3370361328125,
+            "y": -131.62806701660156
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "108",
+            "label": "Kronenberger, Louis, 1904-1980.",
+            "size": 10.0,
+            "x": 753.8822021484375,
+            "y": -135.70887756347656
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "7",
+            "label": "Auden, W. H. (Wystan Hugh), 1907-1973.",
+            "size": 10.0,
+            "x": -1028.438720703125,
+            "y": -518.7146606445312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "18",
+            "label": "Bertram, Anthony, 1897-",
+            "size": 10.0,
+            "x": -220.77688598632812,
+            "y": 1126.2269287109375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "345",
+            "label": "Sonia Blair",
+            "size": 10.0,
+            "x": 127.32515716552734,
+            "y": -162.36087036132812
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "277",
+            "label": "Graziato, Massimo, 1967-",
+            "size": 10.0,
+            "x": -119.67768859863281,
+            "y": -6.227631568908691
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "183",
+            "label": "Scowcroft, Richard.",
+            "size": 10.0,
+            "x": -1011.2362060546875,
+            "y": -739.15625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "97",
+            "label": "Isherwood, Christopher, 1904-1986.",
+            "size": 10.0,
+            "x": -334.1938171386719,
+            "y": 1065.87255859375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "207",
+            "label": "University of Virginia. Dept. of English.",
+            "size": 10.0,
+            "x": 555.52392578125,
+            "y": -324.3047790527344
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "254",
+            "label": "Matthews, J. B. (Joseph Brown), 1894-1966",
+            "size": 10.0,
+            "x": 12.292991638183594,
+            "y": -1255.7288818359375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "112",
+            "label": "Levin, Harry, 1912-1994",
+            "size": 10.0,
+            "x": -817.2921752929688,
+            "y": -572.4011840820312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "166",
+            "label": "Pryce-Jones, Alan, 1908-",
+            "size": 10.0,
+            "x": 254.5048828125,
+            "y": -568.875732421875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "346",
+            "label": "Fredic Warburg",
+            "size": 10.0,
+            "x": 58.88216781616211,
+            "y": -108.40564727783203
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "185",
+            "label": "Sexton, Anne, 1928-1974",
+            "size": 10.0,
+            "x": -427.2812194824219,
+            "y": -1042.1322021484375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "309",
+            "label": "Toronto Workshop Productions Archives.",
+            "size": 10.0,
+            "x": 179.4292449951172,
+            "y": 95.9374771118164
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "286",
+            "label": "Milton, Harry.",
+            "size": 10.0,
+            "x": 100.3166275024414,
+            "y": -58.82078170776367
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "279",
+            "label": "International Brigades.",
+            "size": 10.0,
+            "x": -49.663734436035156,
+            "y": -149.6842498779297
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "172",
+            "label": "Rexroth, Kenneth, 1905-1982.",
+            "size": 10.0,
+            "x": 870.2393798828125,
+            "y": 79.74358367919922
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "29",
+            "label": "Burke, Kenneth, 1897-1993.",
+            "size": 10.0,
+            "x": 478.6206970214844,
+            "y": -1015.1740112304688
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "117",
+            "label": "Lord, James.",
+            "size": 10.0,
+            "x": 630.7670288085938,
+            "y": -1080.534912109375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "358",
+            "label": "Tom Driberg",
+            "size": 10.0,
+            "x": -117.49217987060547,
+            "y": 33.38889694213867
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "208",
+            "label": "Upward, Edward Falaise, 1903-2009",
+            "size": 10.0,
+            "x": -1044.3748779296875,
+            "y": 360.02459716796875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "295",
+            "label": "Orr, Charles A. (Charles Andrew)",
+            "size": 10.0,
+            "x": -185.10899353027344,
+            "y": 111.65127563476562
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "206",
+            "label": "University of Connecticut. University of Connecticut Libraries.",
+            "size": 10.0,
+            "x": -939.6713256835938,
+            "y": -622.38818359375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "137",
+            "label": "Monteith, Charles.",
+            "size": 10.0,
+            "x": -909.6301879882812,
+            "y": 374.22515869140625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "333",
+            "label": "Vic Feather",
+            "size": 10.0,
+            "x": -94.11211395263672,
+            "y": 190.53866577148438
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "154",
+            "label": "Parker, Derek.",
+            "size": 10.0,
+            "x": 390.9786682128906,
+            "y": 926.16552734375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "39",
+            "label": "Cunard, Nancy, 1896-1965",
+            "size": 10.0,
+            "x": 795.7005004882812,
+            "y": -412.25213623046875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "216",
+            "label": "Wells, Herbert George, 1866-1946",
+            "size": 10.0,
+            "x": 699.9028930664062,
+            "y": -874.0267333984375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "23",
+            "label": "Bradbury, Malcolm, 1932-2000",
+            "size": 10.0,
+            "x": -768.5065307617188,
+            "y": 829.9485473632812
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "265",
+            "label": "Vanguard Press.",
+            "size": 10.0,
+            "x": -947.1895751953125,
+            "y": 611.9004516601562
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "284",
+            "label": "Marzani, Carl",
+            "size": 10.0,
+            "x": 91.98346710205078,
+            "y": 172.29974365234375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "340",
+            "label": "Paul Robeson",
+            "size": 10.0,
+            "x": -116.24237060546875,
+            "y": 110.13090515136719
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "321",
+            "label": "Victor Gollancz",
+            "size": 10.0,
+            "x": -60.76405715942383,
+            "y": -356.16357421875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "177",
+            "label": "Saillet, Maurice",
+            "size": 10.0,
+            "x": -359.0294494628906,
+            "y": -696.1530151367188
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "211",
+            "label": "Walpole, Hugh, Sir, 1884-1941.",
+            "size": 10.0,
+            "x": -727.4406127929688,
+            "y": -662.2413940429688
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "56",
+            "label": "Esher, Oliver Brett, 3d viscount, 1881-",
+            "size": 10.0,
+            "x": 70.6748275756836,
+            "y": 794.2888793945312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "87",
+            "label": "Hemingway, Ernest, 1899-1961.",
+            "size": 10.0,
+            "x": 68.9583740234375,
+            "y": 1132.0946044921875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "119",
+            "label": "Lowell, Robert, 1917-1977.",
+            "size": 10.0,
+            "x": 926.7853393554688,
+            "y": 849.4931640625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "308",
+            "label": "Theatre Passe Muraille Archives (University of Guelph)",
+            "size": 10.0,
+            "x": 69.25106048583984,
+            "y": 97.95056915283203
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "13",
+            "label": "Bean, Arthur Parsons.",
+            "size": 10.0,
+            "x": 679.885498046875,
+            "y": 519.4254150390625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "12",
+            "label": "Beach, Sylvia.",
+            "size": 10.0,
+            "x": 518.5321655273438,
+            "y": 700.9226684570312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "44",
+            "label": "David Richard Godine",
+            "size": 10.0,
+            "x": 42.0868034362793,
+            "y": -769.8274536132812
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "197",
+            "label": "Sweeney, Francis W., 1916-",
+            "size": 10.0,
+            "x": 110.42256164550781,
+            "y": 1249.1497802734375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "47",
+            "label": "Deane, John F., 1943-",
+            "size": 10.0,
+            "x": -507.94146728515625,
+            "y": -513.1575927734375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "90",
+            "label": "Hollander, John.",
+            "size": 10.0,
+            "x": -796.20166015625,
+            "y": 288.9763488769531
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "334",
+            "label": "V. Puchev",
+            "size": 10.0,
+            "x": -32.81626510620117,
+            "y": 142.8532257080078
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "24",
+            "label": "Brett, Dorothy, 1883-1977",
+            "size": 10.0,
+            "x": -896.3267211914062,
+            "y": 881.9832153320312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "133",
+            "label": "Mitgang, Herbert",
+            "size": 10.0,
+            "x": -1163.87744140625,
+            "y": 435.6202087402344
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "188",
+            "label": "Sir Herbert Read.",
+            "size": 10.0,
+            "x": -178.3253173828125,
+            "y": -1118.304931640625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "79",
+            "label": "Hampton, Christopher, 1946-",
+            "size": 10.0,
+            "x": 251.56539916992188,
+            "y": -966.4176635742188
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "148",
+            "label": "Nimbus: A Magazine of Literature, the Arts, and New Ideas",
+            "size": 10.0,
+            "x": 595.6525268554688,
+            "y": -949.1825561523438
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "30",
+            "label": "Bynner, Witter, 1881-1968",
+            "size": 10.0,
+            "x": 401.01629638671875,
+            "y": -1189.869873046875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "83",
+            "label": "Hauptman, Robert, 1941-",
+            "size": 10.0,
+            "x": 957.340087890625,
+            "y": 290.6572570800781
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "64",
+            "label": "Gascoyne, David, 1916-2001.",
+            "size": 10.0,
+            "x": -21.14542579650879,
+            "y": 1032.3289794921875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "353",
+            "label": "Charles Spencer Chaplin Junior",
+            "size": 10.0,
+            "x": 95.15721130371094,
+            "y": -96.65071105957031
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "27",
+            "label": "Brownjohn, Alan, 1931-",
+            "size": 10.0,
+            "x": -51.10511779785156,
+            "y": -1134.0626220703125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "328",
+            "label": "Michael Foot",
+            "size": 10.0,
+            "x": 154.263427734375,
+            "y": 26.005104064941406
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "181",
+            "label": "Schiller, Friedrich, 1759-1805.",
+            "size": 10.0,
+            "x": -1159.0157470703125,
+            "y": -496.974609375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "10",
+            "label": "Barker, George, 1913-1991.",
+            "size": 10.0,
+            "x": 239.6846466064453,
+            "y": 1241.2044677734375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "260",
+            "label": "Parker, Helen, 1956.",
+            "size": 10.0,
+            "x": -1240.6715087890625,
+            "y": 188.63568115234375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "319",
+            "label": "Cyril Dean Darlington",
+            "size": 10.0,
+            "x": 38.590118408203125,
+            "y": 123.3602066040039
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "114",
+            "label": "Lewis, Wyndham, 1882-1957.",
+            "size": 10.0,
+            "x": -302.8659973144531,
+            "y": -1087.1646728515625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "109",
+            "label": "Landau, Rom, 1899-1974.",
+            "size": 10.0,
+            "x": -619.4537963867188,
+            "y": -585.7711791992188
+        },
+        {
+            "attributes": {
+                "Modularity Class": "1"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "367",
+            "label": "Iris Morley",
+            "size": 10.0,
+            "x": 296.2538757324219,
+            "y": 41.7203483581543
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "145",
+            "label": "Newton, Caroline, 1893-",
+            "size": 10.0,
+            "x": -463.35546875,
+            "y": -769.2161865234375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "94",
+            "label": "Huxley, Julian, 1887-1975.",
+            "size": 10.0,
+            "x": -25.076526641845703,
+            "y": -1007.699462890625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "243",
+            "label": "Gabor, Dennis, 1900-1979",
+            "size": 10.0,
+            "x": 582.4879760742188,
+            "y": -458.82916259765625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "310",
+            "label": "Toronto Workshop Productions Archives (University of Guelph)",
+            "size": 10.0,
+            "x": 51.35417938232422,
+            "y": 163.4115447998047
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "224",
+            "label": "Woodberry Poetry Room (Harvard College Library).",
+            "size": 10.0,
+            "x": 618.8239135742188,
+            "y": 626.5698852539062
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "128",
+            "label": "Marsh, Edward Howard, Sir, 1872-1953.",
+            "size": 10.0,
+            "x": 831.5450439453125,
+            "y": 935.7026977539062
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "150",
+            "label": "O'Connor, Philip",
+            "size": 10.0,
+            "x": 1052.4525146484375,
+            "y": 425.15350341796875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "155",
+            "label": "Parker, Derek, 1932-",
+            "size": 10.0,
+            "x": -920.9943237304688,
+            "y": -335.6960144042969
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "329",
+            "label": "Tony Benn",
+            "size": 10.0,
+            "x": -159.91390991210938,
+            "y": -106.27027893066406
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "237",
+            "label": "Cullen, Frank, 1936-",
+            "size": 10.0,
+            "x": 391.4152526855469,
+            "y": -624.3316040039062
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "348",
+            "label": "John Anderson",
+            "size": 10.0,
+            "x": -92.66764831542969,
+            "y": -291.14825439453125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "209",
+            "label": "Vidal, Gore, 1925-",
+            "size": 10.0,
+            "x": -301.0320129394531,
+            "y": -957.8289794921875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "92",
+            "label": "Howard, Elizabeth Jane.",
+            "size": 10.0,
+            "x": -434.6720275878906,
+            "y": -909.8858032226562
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "365",
+            "label": "Stefan Litauer",
+            "size": 10.0,
+            "x": -216.90060424804688,
+            "y": 0.7070804238319397
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "15",
+            "label": "Bell, Hesketh, Sir, 1864-1952.",
+            "size": 10.0,
+            "x": 148.34860229492188,
+            "y": -1249.2294921875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "131",
+            "label": "Miller, Christian William.",
+            "size": 10.0,
+            "x": 362.81317138671875,
+            "y": -499.1002197265625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "122",
+            "label": "MacLeish, Archibald, 1892-1982.",
+            "size": 10.0,
+            "x": -1008.093017578125,
+            "y": 158.58438110351562
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "296",
+            "label": "Orr, Charles Andrew, 1906-",
+            "size": 10.0,
+            "x": 113.21153259277344,
+            "y": 126.88431549072266
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "41",
+            "label": "Curtis Brown Ltd.",
+            "size": 10.0,
+            "x": -123.9813461303711,
+            "y": -627.7448120117188
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "77",
+            "label": "Guinness, Bryan, 1905-",
+            "size": 10.0,
+            "x": -1047.4837646484375,
+            "y": -390.1957702636719
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "103",
+            "label": "Kermode, Frank, 1919-2010.",
+            "size": 10.0,
+            "x": 489.90240478515625,
+            "y": -546.385009765625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "105",
+            "label": "King, Francis Henry, 1923-",
+            "size": 10.0,
+            "x": -760.89892578125,
+            "y": 407.4578857421875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "198",
+            "label": "Swinnerton, Frank, 1884-",
+            "size": 10.0,
+            "x": -507.53350830078125,
+            "y": -650.2235107421875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "380",
+            "label": "George Orwell",
+            "size": 10.0,
+            "x": -0.0014239171287044883,
+            "y": 0.0002258515014545992
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "173",
+            "label": "Richards, Ivor Armstrong, 1893-",
+            "size": 10.0,
+            "x": -401.20477294921875,
+            "y": -1188.933349609375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "220",
+            "label": "Winsten, Stephen",
+            "size": 10.0,
+            "x": -161.2171173095703,
+            "y": -991.1641845703125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "54",
+            "label": "Engle, Paul, 1908- ,",
+            "size": 10.0,
+            "x": 968.1778564453125,
+            "y": -262.45623779296875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "43",
+            "label": "David, Hugh, 1954-",
+            "size": 10.0,
+            "x": -928.7503051757812,
+            "y": -837.4671020507812
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "191",
+            "label": "Spender, Matthew.",
+            "size": 10.0,
+            "x": 962.2133178710938,
+            "y": -601.3916015625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "343",
+            "label": "T. S. Eliot",
+            "size": 10.0,
+            "x": -90.90412139892578,
+            "y": -88.84378814697266
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "332",
+            "label": "Bertrand Russell",
+            "size": 10.0,
+            "x": -145.1266632080078,
+            "y": -33.1165657043457
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "3",
+            "label": "Arendt, Hannah, 1906-1975.",
+            "size": 10.0,
+            "x": 491.0955505371094,
+            "y": -878.8964233398438
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "140",
+            "label": "Morrell, Ottoline Violet Anne Cavendish-Bentinck, Lady, 1873-1938",
+            "size": 10.0,
+            "x": 164.82696533203125,
+            "y": -731.45458984375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "106",
+            "label": "Kirchwey, Freda.",
+            "size": 10.0,
+            "x": -450.2126159667969,
+            "y": 1028.3734130859375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "294",
+            "label": "New York University.",
+            "size": 10.0,
+            "x": -178.9838104248047,
+            "y": -14.43825912475586
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "89",
+            "label": "Henry Moore",
+            "size": 10.0,
+            "x": 517.5424194335938,
+            "y": 541.3796997070312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "98",
+            "label": "James, William, 1882-1961",
+            "size": 10.0,
+            "x": 1122.962646484375,
+            "y": 49.73012924194336
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "272",
+            "label": "Fen, Elisaveta.",
+            "size": 10.0,
+            "x": -37.39247131347656,
+            "y": -192.1047821044922
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "326",
+            "label": "Cecilia Kirwan",
+            "size": 10.0,
+            "x": 60.90491485595703,
+            "y": -149.56564331054688
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "96",
+            "label": "Huxley, Juliette, 1896-",
+            "size": 10.0,
+            "x": -620.411865234375,
+            "y": 774.3590698242188
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "238",
+            "label": "Esquire, Inc.",
+            "size": 10.0,
+            "x": -444.0382385253906,
+            "y": 1172.1378173828125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "38",
+            "label": "Cummings, E. E. (Edward Estlin), 1894-1968.",
+            "size": 10.0,
+            "x": 753.7999267578125,
+            "y": -5.83129358291626
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "153",
+            "label": "Pantheon Press.",
+            "size": 10.0,
+            "x": 585.017578125,
+            "y": -794.1759643554688
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "160",
+            "label": "Plomer, William, 1903-1973,",
+            "size": 10.0,
+            "x": -1017.6004028320312,
+            "y": -122.89573669433594
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "357",
+            "label": "Walter Duranty",
+            "size": 10.0,
+            "x": -76.939697265625,
+            "y": 124.48389434814453
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "57",
+            "label": "Fielding, Gabriel, 1916-1986.",
+            "size": 10.0,
+            "x": 1194.810546875,
+            "y": -379.211669921875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "142",
+            "label": "Nation (New York, N.Y. : 1865).",
+            "size": 10.0,
+            "x": 1066.613037109375,
+            "y": -355.9284362792969
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "125",
+            "label": "Manning, Hugo, 1913-1977",
+            "size": 10.0,
+            "x": -900.3681640625,
+            "y": -469.7978820800781
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "135",
+            "label": "Modern Poetry Association",
+            "size": 10.0,
+            "x": 1099.4700927734375,
+            "y": -218.83282470703125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "75",
+            "label": "Guggenheim, Charles",
+            "size": 10.0,
+            "x": 268.9977111816406,
+            "y": 978.3569946289062
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "242",
+            "label": "Frankfurter, Felix, 1882-1965",
+            "size": 10.0,
+            "x": 614.2865600585938,
+            "y": -598.5208129882812
+        },
+        {
+            "attributes": {
+                "Modularity Class": "1"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "362",
+            "label": "Alaric Jacob",
+            "size": 10.0,
+            "x": 285.5628356933594,
+            "y": 89.69700622558594
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "118",
+            "label": "Lowell-Adams House Printers.",
+            "size": 10.0,
+            "x": 13.032746315002441,
+            "y": -651.6619262695312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "288",
+            "label": "Murry, John Middleton, 1889-1957.",
+            "size": 10.0,
+            "x": -55.90483093261719,
+            "y": -107.85838317871094
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "337",
+            "label": "Cecil Day Lewis",
+            "size": 10.0,
+            "x": 170.9915313720703,
+            "y": -97.21682739257812
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "287",
+            "label": "Moore, Lorna.",
+            "size": 10.0,
+            "x": 13.138574600219727,
+            "y": 156.92605590820312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "341",
+            "label": "Michael Redgrave",
+            "size": 10.0,
+            "x": -136.52072143554688,
+            "y": 170.2906494140625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "82",
+            "label": "Harold Matson Company, Inc. (New York, N.Y.)",
+            "size": 10.0,
+            "x": -1133.578125,
+            "y": 108.35551452636719
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "74",
+            "label": "Group Theatre (U.S.),",
+            "size": 10.0,
+            "x": -1185.73828125,
+            "y": -367.70953369140625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "250",
+            "label": "Kammerer, Paul, 1880-1926.",
+            "size": 10.0,
+            "x": -1055.4940185546875,
+            "y": -267.14031982421875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "306",
+            "label": "Štanský, Peter.",
+            "size": 10.0,
+            "x": -152.0477752685547,
+            "y": -145.087890625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "86",
+            "label": "Heilbrun, Carolyn G., 1926-2003.",
+            "size": 10.0,
+            "x": -58.644344329833984,
+            "y": 782.0527954101562
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "21",
+            "label": "Blunden, Edmund, 1896-1974.",
+            "size": 10.0,
+            "x": 51.17646789550781,
+            "y": -194.3638458251953
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "48",
+            "label": "Doone, Rupert, 1903-1966.",
+            "size": 10.0,
+            "x": 1135.251708984375,
+            "y": 529.8310546875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "72",
+            "label": "Grigson, Geoffrey, 1905-",
+            "size": 10.0,
+            "x": 905.2857055664062,
+            "y": 643.3196411132812
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "289",
+            "label": "NDWT Archives (University of Guelph)",
+            "size": 10.0,
+            "x": 163.28025817871094,
+            "y": -11.170661926269531
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "262",
+            "label": "Provine, William B.",
+            "size": 10.0,
+            "x": 857.6677856445312,
+            "y": -521.3287353515625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "371",
+            "label": "Ian Norman Mackenzie",
+            "size": 10.0,
+            "x": 201.07534790039062,
+            "y": -69.3680191040039
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "111",
+            "label": "Lehmann, John, 1907-1987.",
+            "size": 10.0,
+            "x": -562.8187255859375,
+            "y": -845.8035888671875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "53",
+            "label": "Empson, William, 1906-1984",
+            "size": 10.0,
+            "x": -619.4176635742188,
+            "y": 607.1841430664062
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "147",
+            "label": "Nichols, Robert, 1893-1944,",
+            "size": 10.0,
+            "x": -1257.6396484375,
+            "y": 45.77593231201172
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "100",
+            "label": "Josselson, Michael, 1908-1978",
+            "size": 10.0,
+            "x": -269.1025390625,
+            "y": -1227.4449462890625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "34",
+            "label": "Connolly, Cyril, 1903-1974.",
+            "size": 10.0,
+            "x": 1192.2984619140625,
+            "y": 401.35791015625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "76",
+            "label": "Guillén, Jorge, 1893-1984.",
+            "size": 10.0,
+            "x": 774.5875854492188,
+            "y": 613.5147094726562
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "246",
+            "label": "Harris, Leon A.",
+            "size": 10.0,
+            "x": -985.8935546875,
+            "y": 774.9207153320312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "205",
+            "label": "Tureck, Rosalyn.",
+            "size": 10.0,
+            "x": 840.779541015625,
+            "y": -928.2883911132812
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "45",
+            "label": "Davis, R. G.,",
+            "size": 10.0,
+            "x": -1233.463623046875,
+            "y": -253.38499450683594
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "241",
+            "label": "Foley, Katharine",
+            "size": 10.0,
+            "x": 112.71324157714844,
+            "y": 44.05363464355469
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "138",
+            "label": "Moore, Henry Spencer, 1898-",
+            "size": 10.0,
+            "x": -520.4964599609375,
+            "y": 683.9125366210938
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "202",
+            "label": "Thomas, Dylan, 1914-1953",
+            "size": 10.0,
+            "x": 875.5794067382812,
+            "y": -49.177955627441406
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "63",
+            "label": "Garnett, David, 1892-1981.",
+            "size": 10.0,
+            "x": 794.2323608398438,
+            "y": -790.0970458984375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "189",
+            "label": "Sitwell, Edith, 1887-1964.",
+            "size": 10.0,
+            "x": -675.075927734375,
+            "y": -902.1259765625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "323",
+            "label": "Gleb Struve",
+            "size": 10.0,
+            "x": 138.49986267089844,
+            "y": 99.04508972167969
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "225",
+            "label": "Woolf, Cecil",
+            "size": 10.0,
+            "x": 219.94837951660156,
+            "y": -1104.0780029296875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "95",
+            "label": "Huxley, Julian Sorell",
+            "size": 10.0,
+            "x": 570.8240356445312,
+            "y": 435.04693603515625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "338",
+            "label": "Sean O'Casey",
+            "size": 10.0,
+            "x": -205.79893493652344,
+            "y": -44.70882797241211
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "267",
+            "label": "Deak, Jon.",
+            "size": 10.0,
+            "x": 129.55409240722656,
+            "y": -116.19349670410156
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "115",
+            "label": "Lindbergh, Anne Morrow, 1906-2001.",
+            "size": 10.0,
+            "x": -189.94644165039062,
+            "y": 838.7532958984375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "143",
+            "label": "Nethercot, Arthur Hobart, 1895-1981.",
+            "size": 10.0,
+            "x": -1213.9820556640625,
+            "y": 320.66937255859375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "219",
+            "label": "Wilson, Edmund, 1895-1972.",
+            "size": 10.0,
+            "x": 1008.74462890625,
+            "y": -479.325927734375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "350",
+            "label": "John Beavan, Baron Ardwick",
+            "size": 10.0,
+            "x": -152.93014526367188,
+            "y": 89.52043151855469
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "231",
+            "label": "Zahn, Mabel.",
+            "size": 10.0,
+            "x": 460.3161315917969,
+            "y": -412.8760681152344
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "360",
+            "label": "Douglas Goldring",
+            "size": 10.0,
+            "x": -107.83733367919922,
+            "y": -49.66878890991211
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "186",
+            "label": "Sexton, Anne, 1928-1974.",
+            "size": 10.0,
+            "x": -902.2578125,
+            "y": 85.36507415771484
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "9",
+            "label": "Bagguley, John",
+            "size": 10.0,
+            "x": -800.1762084960938,
+            "y": -136.3487548828125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "174",
+            "label": "Roberts, Michael, 1902-1948.",
+            "size": 10.0,
+            "x": 851.2434692382812,
+            "y": 210.3960418701172
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "151",
+            "label": "O'Connor, Philip.",
+            "size": 10.0,
+            "x": -1090.669921875,
+            "y": -628.1990966796875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "194",
+            "label": "Spender, Stephen, 1909-",
+            "size": 10.0,
+            "x": 122.88316345214844,
+            "y": -1002.58984375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "124",
+            "label": "Mailer, Norman.",
+            "size": 10.0,
+            "x": -253.32643127441406,
+            "y": -620.2227783203125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "325",
+            "label": "Ana Pauker",
+            "size": 10.0,
+            "x": -19.83302879333496,
+            "y": 177.0235595703125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "339",
+            "label": "Orson Welles",
+            "size": 10.0,
+            "x": 130.0331268310547,
+            "y": 166.81076049804688
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "281",
+            "label": "Lechoń, Jan, 1899-1956.",
+            "size": 10.0,
+            "x": -104.66034698486328,
+            "y": 148.58140563964844
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "347",
+            "label": "Information Research Department",
+            "size": 10.0,
+            "x": 121.34793853759766,
+            "y": 3.3799233436584473
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "268",
+            "label": "Factory Theatre Lab Archives.",
+            "size": 10.0,
+            "x": -157.05992126464844,
+            "y": 51.30058670043945
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "116",
+            "label": "Lloyd, Hannah R.",
+            "size": 10.0,
+            "x": 410.6536560058594,
+            "y": -756.9625854492188
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "239",
+            "label": "Fischer, Ruth, 1895-",
+            "size": 10.0,
+            "x": 26.439895629882812,
+            "y": 195.85655212402344
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "223",
+            "label": "Wollman, Maurice.",
+            "size": 10.0,
+            "x": -868.2467041015625,
+            "y": 494.3323669433594
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "318",
+            "label": "D'Arcy Gillie",
+            "size": 10.0,
+            "x": -168.01776123046875,
+            "y": -61.761871337890625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "132",
+            "label": "Miller, Henry, 1891-1980.",
+            "size": 10.0,
+            "x": 130.07977294921875,
+            "y": -34.24208068847656
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "235",
+            "label": "Crick, Bernard Rowland. Professor Sir, 1929-2008",
+            "size": 10.0,
+            "x": 412.635986328125,
+            "y": 766.4335327148438
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "22",
+            "label": "Bowen, Elizabeth, 1899-1973",
+            "size": 10.0,
+            "x": -1142.1444091796875,
+            "y": -30.77459716796875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "355",
+            "label": "Arthur Calder-Marshall",
+            "size": 10.0,
+            "x": -0.59916752576828,
+            "y": 120.32926940917969
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "8",
+            "label": "Auster, Paul, 1947-",
+            "size": 10.0,
+            "x": 711.9390869140625,
+            "y": -511.4363708496094
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "256",
+            "label": "Morley family.",
+            "size": 10.0,
+            "x": 678.7407836914062,
+            "y": -713.0849609375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "14",
+            "label": "Bedford, Sybille, 1911-2006",
+            "size": 10.0,
+            "x": 711.7014770507812,
+            "y": 726.4002685546875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "184",
+            "label": "Selig, Richard, 1929-1957.",
+            "size": 10.0,
+            "x": 740.0689697265625,
+            "y": -1010.3991088867188
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "317",
+            "label": "Arthur Koestler",
+            "size": 10.0,
+            "x": -9.899452209472656,
+            "y": -305.0006103515625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "66",
+            "label": "Godine, David Richard,",
+            "size": 10.0,
+            "x": 517.736572265625,
+            "y": -684.1452026367188
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "141",
+            "label": "Nabokov, Nicolas, 1903-1978",
+            "size": 10.0,
+            "x": 821.0738525390625,
+            "y": 497.26580810546875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "179",
+            "label": "Salus, Peter H",
+            "size": 10.0,
+            "x": 413.1893310546875,
+            "y": 610.6983032226562
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "52",
+            "label": "Eliot, T. S. (Thomas Stearns), 1888-1965.",
+            "size": 10.0,
+            "x": -392.79962158203125,
+            "y": -574.6490478515625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "170",
+            "label": "Read, Herbert Edward, Sir, 1893-1968.",
+            "size": 10.0,
+            "x": -524.9159545898438,
+            "y": -1137.959716796875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "91",
+            "label": "Holloway, Edgar.",
+            "size": 10.0,
+            "x": 772.086181640625,
+            "y": -624.8468017578125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "305",
+            "label": "Spain. Ejército Popular de la República. Brigada Internacional.",
+            "size": 10.0,
+            "x": -131.93894958496094,
+            "y": -78.85070037841797
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "31",
+            "label": "Carpenter, Humphrey.",
+            "size": 10.0,
+            "x": 1000.27978515625,
+            "y": -120.04386901855469
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "36",
+            "label": "Cronin, Anthony,",
+            "size": 10.0,
+            "x": -1020.84912109375,
+            "y": 17.170757293701172
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "127",
+            "label": "Marshall, Margaret, 1900-1974.",
+            "size": 10.0,
+            "x": -900.8732299804688,
+            "y": -63.5522346496582
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "278",
+            "label": "Harry Milton papers",
+            "size": 10.0,
+            "x": -119.86173248291016,
+            "y": 70.229736328125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "149",
+            "label": "Ocampo, Victoria, 1891-",
+            "size": 10.0,
+            "x": 570.1162719726562,
+            "y": -197.23959350585938
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "200",
+            "label": "Taylor, Harold, 1914-1993.",
+            "size": 10.0,
+            "x": -317.47265625,
+            "y": 1216.3046875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "351",
+            "label": "Patrick Maynard Stuart Blackett",
+            "size": 10.0,
+            "x": 7.053133010864258,
+            "y": -199.9160614013672
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "80",
+            "label": "Hardwick, Elizabeth, 1916-2007",
+            "size": 10.0,
+            "x": -282.5035400390625,
+            "y": 941.3217163085938
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "158",
+            "label": "Peter Watson",
+            "size": 10.0,
+            "x": -682.7357177734375,
+            "y": 1051.6767578125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "204",
+            "label": "Thompson, Dunstan, 1918-1975.",
+            "size": 10.0,
+            "x": 982.716064453125,
+            "y": 155.71961975097656
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "60",
+            "label": "Fremantle, Anne, 1909-2002.",
+            "size": 10.0,
+            "x": 879.5977783203125,
+            "y": -697.8908081054688
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "49",
+            "label": "Dylan Thomas",
+            "size": 10.0,
+            "x": -25.52071762084961,
+            "y": 1253.5205078125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "156",
+            "label": "Peake, Ernest Cromwell, 1874-1950",
+            "size": 10.0,
+            "x": -414.9934387207031,
+            "y": 747.9373779296875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "162",
+            "label": "Price, Reynolds, 1933-2011",
+            "size": 10.0,
+            "x": 494.912109375,
+            "y": 1152.7728271484375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "163",
+            "label": "Price, Reynolds, 1933-2011.",
+            "size": 10.0,
+            "x": -751.1316528320312,
+            "y": -802.4296264648438
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "32",
+            "label": "Chilmark Press (New York, N.Y.)",
+            "size": 10.0,
+            "x": 1091.0670166015625,
+            "y": 300.3843994140625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "215",
+            "label": "Watson, Peter,",
+            "size": 10.0,
+            "x": -1100.39306640625,
+            "y": 249.94261169433594
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "85",
+            "label": "Heilbrun, Carolyn G., 1926-",
+            "size": 10.0,
+            "x": -203.02919006347656,
+            "y": -866.0591430664062
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "212",
+            "label": "Warhol, Andy, 1928-1987.",
+            "size": 10.0,
+            "x": 50.258338928222656,
+            "y": -894.3674926757812
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "299",
+            "label": "Shaw Festival Collection (University of Guelph)",
+            "size": 10.0,
+            "x": 95.44203186035156,
+            "y": -136.48524475097656
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "5",
+            "label": "Arthos, John, 1908-",
+            "size": 10.0,
+            "x": 304.29046630859375,
+            "y": 839.9891967773438
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "171",
+            "label": "Rewald, John, 1912-1994,",
+            "size": 10.0,
+            "x": -76.27587890625,
+            "y": -875.9857177734375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "20",
+            "label": "Bingham, Alfred M. (Alfred Mitchell), 1905-",
+            "size": 10.0,
+            "x": 373.7262878417969,
+            "y": -924.5469970703125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "152",
+            "label": "Ostrom, Hans A.",
+            "size": 10.0,
+            "x": 294.2334899902344,
+            "y": -814.416748046875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "164",
+            "label": "Priestley, John Boynton, 1894-",
+            "size": 10.0,
+            "x": -168.99977111816406,
+            "y": 1002.468017578125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "2",
+            "label": "American Committee for Cultural Freedom.",
+            "size": 10.0,
+            "x": 614.9725341796875,
+            "y": 317.45208740234375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "4",
+            "label": "Arnell, Richard, 1917-2009.",
+            "size": 10.0,
+            "x": -90.65156555175781,
+            "y": -763.2369384765625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "102",
+            "label": "Kallman, Chester, 1921-1975",
+            "size": 10.0,
+            "x": 999.84765625,
+            "y": 744.1284790039062
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "168",
+            "label": "Quinby, Jane, 1901-1965,",
+            "size": 10.0,
+            "x": 1223.9820556640625,
+            "y": -256.4472351074219
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "361",
+            "label": "Arthur Sanderson Hooper, Major AS Hooper",
+            "size": 10.0,
+            "x": -11.654031753540039,
+            "y": -160.8643035888672
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "190",
+            "label": "Smith, William Jay, 1918-",
+            "size": 10.0,
+            "x": -129.39930725097656,
+            "y": -1251.673095703125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "175",
+            "label": "Sackville-West, Edward, Hon., 1901-1965.",
+            "size": 10.0,
+            "x": -644.5402221679688,
+            "y": -1079.5849609375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "107",
+            "label": "Kirstein, Lincoln, 1907-1996.",
+            "size": 10.0,
+            "x": 367.3166809082031,
+            "y": 1200.697021484375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "165",
+            "label": "Prokosch, Frederic, 1908-1989.",
+            "size": 10.0,
+            "x": -77.60306549072266,
+            "y": -180.33126831054688
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "136",
+            "label": "Monro, Alida Klemantaski.",
+            "size": 10.0,
+            "x": 996.334716796875,
+            "y": 18.97431182861328
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "213",
+            "label": "Warner, Sylvia Townsend, 1893-1978.",
+            "size": 10.0,
+            "x": 178.5545196533203,
+            "y": 882.1156616210938
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "315",
+            "label": "Woodcock, George, 1912-1995.",
+            "size": 10.0,
+            "x": -114.85807800292969,
+            "y": -163.5578155517578
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "139",
+            "label": "Moore, Marianne, 1887-1972.",
+            "size": 10.0,
+            "x": 618.4612426757812,
+            "y": 941.2382202148438
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "229",
+            "label": "Yeats, W. B. (William Butler), 1865-1939.",
+            "size": 10.0,
+            "x": -217.7133331298828,
+            "y": -738.8637084960938
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "62",
+            "label": "Gardiner, Muriel, 1901-1985.",
+            "size": 10.0,
+            "x": -621.4415283203125,
+            "y": -733.4043579101562
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "93",
+            "label": "Hughes, Ted, 1930-1998.",
+            "size": 10.0,
+            "x": -929.408447265625,
+            "y": 251.2239532470703
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "214",
+            "label": "Watson, Peter",
+            "size": 10.0,
+            "x": 729.3171997070312,
+            "y": 1019.4599609375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "58",
+            "label": "FREDA KIRCHWEY, 1893-1976",
+            "size": 10.0,
+            "x": -715.4868774414062,
+            "y": 525.264404296875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "65",
+            "label": "Ginsberg, Allen, 1926-1997.",
+            "size": 10.0,
+            "x": 683.7505493164062,
+            "y": -239.33404541015625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "81",
+            "label": "Hare, David, 1947-",
+            "size": 10.0,
+            "x": -862.892578125,
+            "y": 734.940673828125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "259",
+            "label": "Parapsychology Laboratory",
+            "size": 10.0,
+            "x": 921.5371704101562,
+            "y": 423.1357116699219
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "46",
+            "label": "Day-Lewis, Cecil, 1904-",
+            "size": 10.0,
+            "x": 637.2067260742188,
+            "y": -89.14804077148438
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(192,192,192)",
+            "id": "271",
+            "label": "Fen, Elisaveta",
+            "size": 10.0,
+            "x": 66.74195861816406,
+            "y": 203.89480590820312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "73",
+            "label": "Grigson, Geoffrey, 1905-1985.",
+            "size": 10.0,
+            "x": 724.4446411132812,
+            "y": 258.954833984375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "37",
+            "label": "Cummings, E. E. (Edward Estlin), 1894-1962",
+            "size": 10.0,
+            "x": -171.83224487304688,
+            "y": 1251.1456298828125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(255,20,147)",
+            "id": "364",
+            "label": "Marjorie Kohn",
+            "size": 10.0,
+            "x": -84.2315902709961,
+            "y": 84.18174743652344
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "221",
+            "label": "Winsten, Stephen,",
+            "size": 10.0,
+            "x": 623.5814208984375,
+            "y": 174.64817810058594
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "230",
+            "label": "Young, Andrew, 1885-1971.",
+            "size": 10.0,
+            "x": -1007.7595825195312,
+            "y": 487.5102233886719
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "244",
+            "label": "Guinness, Sir, Alec, 1914-2000",
+            "size": 10.0,
+            "x": -559.2733154296875,
+            "y": 972.0437622070312
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "264",
+            "label": "Soyinka, Wole.",
+            "size": 10.0,
+            "x": -1138.0274658203125,
+            "y": -169.8839569091797
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "180",
+            "label": "Sassoon, Siegfried, 1886-1967.",
+            "size": 10.0,
+            "x": 135.88525390625,
+            "y": -615.0170288085938
+        },
+        {
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "id": "226",
+            "label": "Woolf, Leonard, 1880-1969.",
+            "size": 10.0,
+            "x": -516.84521484375,
+            "y": 844.2305297851562
+        }
+    ]
+}
