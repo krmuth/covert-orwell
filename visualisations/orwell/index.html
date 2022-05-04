@@ -20,9 +20,9 @@
   <script>
     const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
-        .jsonUrl('https://raw.githubusercontent.com/krmuth/orwell.node/master/visualisations/datasets/orwell-WIP-triad-1.json')
+        .jsonUrl('https://raw.githubusercontent.com/krmuth/orwell.node/master/visualisations/datasets/orwell-WIP-triad-2.json')
         .nodeAutoColorBy('group')
-        .nodeLabel(node => `${node.attributes.description}`)
+//         .nodeLabel(node => `${node.attributes.description}`)
         .nodeThreeObject(node => {
           // use a sphere as a drag handle
           const obj = new THREE.Mesh(
