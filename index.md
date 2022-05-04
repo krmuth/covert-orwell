@@ -8,7 +8,7 @@ This demo takes the novelist George Orwell as its central node.
 
 Using [Encoded Archival Context–Corporate Bodies, Persons, and Families (EAC-CPF)](https://eac.staatsbibliothek-berlin.de/), we aim to connect local record instances with archival repositories, allowing researchers to discover network connections and heritage materials related to state-sponsored cultural activities in WWII and the Cold War period. 
 
-[George Orwell's SNAC relation constellation](https://krmuth.github.io/orwell.node/visualisations/orwell/orwell-ego/snac/)
-[George Orwell's (covert) relation constellation](https://krmuth.github.io/orwell.node/visualisations/orwell/orwell-ego/full/)
-[Expanded SNAC relation constellation (Orwell, Koestler, Spender)](https://krmuth.github.io/orwell.node/visualisations/orwell/triad/snac/)
-[Expanded SNAC relation constellation (Orwell, Koestler, Spender)](https://krmuth.github.io/orwell.node/visualisations/orwell/triad/full/)
+[George Orwell's SNAC relation constellation](https://krmuth.github.io/orwell.node/visualisations/orwell/orwell-ego/snac/)  
+[George Orwell's (covert) relation constellation](https://krmuth.github.io/orwell.node/visualisations/orwell/orwell-ego/full/)  
+[Expanded SNAC relation constellation (Orwell, Koestler, Spender)](https://krmuth.github.io/orwell.node/visualisations/orwell/triad/snac/)  
+[Expanded SNAC relation constellation (Orwell, Koestler, Spender)](https://krmuth.github.io/orwell.node/visualisations/orwell/triad/full/)  
