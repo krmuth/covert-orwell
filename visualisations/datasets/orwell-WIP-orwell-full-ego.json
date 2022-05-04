@@ -1,0 +1,1861 @@
+{
+    "links": [
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1396",
+            "size": 1.0,
+            "source": "280",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1403",
+            "size": 1.0,
+            "source": "287",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1488",
+            "size": 1.0,
+            "source": "400",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(239,179,106)",
+            "id": "1496",
+            "size": 1.0,
+            "source": "401",
+            "target": "317"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1477",
+            "size": 1.0,
+            "source": "361",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1475",
+            "size": 1.0,
+            "source": "359",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1462",
+            "size": 1.0,
+            "source": "346",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1421",
+            "size": 1.0,
+            "source": "305",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1397",
+            "size": 1.0,
+            "source": "281",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(239,179,106)",
+            "id": "1497",
+            "size": 1.0,
+            "source": "402",
+            "target": "317"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(239,179,106)",
+            "id": "1433",
+            "size": 1.0,
+            "source": "317",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1484",
+            "size": 1.0,
+            "source": "367",
+            "target": "362"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(239,179,106)",
+            "id": "1389",
+            "size": 1.0,
+            "source": "239",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1394",
+            "size": 1.0,
+            "source": "278",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1395",
+            "size": 1.0,
+            "source": "279",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1422",
+            "size": 1.0,
+            "source": "306",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1388",
+            "size": 1.0,
+            "source": "272",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(239,179,106)",
+            "id": "1499",
+            "size": 1.0,
+            "source": "347",
+            "target": "317"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1386",
+            "size": 1.0,
+            "source": "270",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1415",
+            "size": 1.0,
+            "source": "299",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1457",
+            "size": 1.0,
+            "source": "341",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(223,121,207)",
+            "id": "1355",
+            "size": 1.0,
+            "source": "239",
+            "target": "317"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1410",
+            "size": 1.0,
+            "source": "294",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1445",
+            "size": 1.0,
+            "source": "329",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1426",
+            "size": 1.0,
+            "source": "310",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1453",
+            "size": 1.0,
+            "source": "337",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1383",
+            "size": 1.0,
+            "source": "267",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(239,179,106)",
+            "id": "1498",
+            "size": 1.0,
+            "source": "403",
+            "target": "317"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1467",
+            "size": 1.0,
+            "source": "351",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1404",
+            "size": 1.0,
+            "source": "288",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1437",
+            "size": 1.0,
+            "source": "321",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1486",
+            "size": 1.0,
+            "source": "370",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(239,179,106)",
+            "id": "1409",
+            "size": 1.0,
+            "source": "146",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1425",
+            "size": 1.0,
+            "source": "309",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1439",
+            "size": 1.0,
+            "source": "323",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1402",
+            "size": 1.0,
+            "source": "286",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1411",
+            "size": 1.0,
+            "source": "295",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1487",
+            "size": 1.0,
+            "source": "371",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1392",
+            "size": 1.0,
+            "source": "276",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(239,179,106)",
+            "id": "1438",
+            "size": 1.0,
+            "source": "321",
+            "target": "317"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1454",
+            "size": 1.0,
+            "source": "338",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(239,179,106)",
+            "id": "1390",
+            "size": 1.0,
+            "source": "240",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1432",
+            "size": 1.0,
+            "source": "21",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1382",
+            "size": 1.0,
+            "source": "266",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1398",
+            "size": 1.0,
+            "source": "120",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1463",
+            "size": 1.0,
+            "source": "347",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1458",
+            "size": 1.0,
+            "source": "342",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1481",
+            "size": 1.0,
+            "source": "365",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1413",
+            "size": 1.0,
+            "source": "165",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1461",
+            "size": 1.0,
+            "source": "345",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1452",
+            "size": 1.0,
+            "source": "336",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1465",
+            "size": 1.0,
+            "source": "349",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1490",
+            "size": 1.0,
+            "source": "402",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1448",
+            "size": 1.0,
+            "source": "332",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1485",
+            "size": 1.0,
+            "source": "369",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1393",
+            "size": 1.0,
+            "source": "277",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1434",
+            "size": 1.0,
+            "source": "318",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1478",
+            "size": 1.0,
+            "source": "362",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1459",
+            "size": 1.0,
+            "source": "343",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1387",
+            "size": 1.0,
+            "source": "271",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1405",
+            "size": 1.0,
+            "source": "289",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1412",
+            "size": 1.0,
+            "source": "296",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1476",
+            "size": 1.0,
+            "source": "360",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1470",
+            "size": 1.0,
+            "source": "354",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1401",
+            "size": 1.0,
+            "source": "132",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(223,121,207)",
+            "id": "1357",
+            "size": 1.0,
+            "source": "241",
+            "target": "317"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1436",
+            "size": 1.0,
+            "source": "320",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1480",
+            "size": 1.0,
+            "source": "364",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1479",
+            "size": 1.0,
+            "source": "321",
+            "target": "348"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1471",
+            "size": 1.0,
+            "source": "355",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1400",
+            "size": 1.0,
+            "source": "284",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1491",
+            "size": 1.0,
+            "source": "403",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1468",
+            "size": 1.0,
+            "source": "352",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1469",
+            "size": 1.0,
+            "source": "353",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(223,121,207)",
+            "id": "1373",
+            "size": 1.0,
+            "source": "146",
+            "target": "317"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1424",
+            "size": 1.0,
+            "source": "308",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1450",
+            "size": 1.0,
+            "source": "334",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1472",
+            "size": 1.0,
+            "source": "356",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(239,179,106)",
+            "id": "1495",
+            "size": 1.0,
+            "source": "400",
+            "target": "317"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(239,179,106)",
+            "id": "1391",
+            "size": 1.0,
+            "source": "241",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1431",
+            "size": 1.0,
+            "source": "315",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1474",
+            "size": 1.0,
+            "source": "358",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1460",
+            "size": 1.0,
+            "source": "344",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1455",
+            "size": 1.0,
+            "source": "339",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1456",
+            "size": 1.0,
+            "source": "340",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1423",
+            "size": 1.0,
+            "source": "307",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1444",
+            "size": 1.0,
+            "source": "328",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1430",
+            "size": 1.0,
+            "source": "314",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1466",
+            "size": 1.0,
+            "source": "350",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(223,121,207)",
+            "id": "1356",
+            "size": 1.0,
+            "source": "240",
+            "target": "317"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1464",
+            "size": 1.0,
+            "source": "348",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1407",
+            "size": 1.0,
+            "source": "291",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1483",
+            "size": 1.0,
+            "source": "367",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1440",
+            "size": 1.0,
+            "source": "324",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1384",
+            "size": 1.0,
+            "source": "268",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1435",
+            "size": 1.0,
+            "source": "319",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1451",
+            "size": 1.0,
+            "source": "335",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1489",
+            "size": 1.0,
+            "source": "401",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1408",
+            "size": 1.0,
+            "source": "144",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1441",
+            "size": 1.0,
+            "source": "325",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(173,209,28)",
+            "id": "1414",
+            "size": 1.0,
+            "source": "298",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1449",
+            "size": 1.0,
+            "source": "333",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1473",
+            "size": 1.0,
+            "source": "357",
+            "target": "380"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,238,5)",
+            "id": "1442",
+            "size": 1.0,
+            "source": "326",
+            "target": "380"
+        }
+    ],
+    "nodes": [
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "370",
+            "label": "Martin, Kingsley, 1897-1969",
+            "size": 10.0,
+            "x": -698.1244506835938,
+            "y": -81.94165802001953
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "341",
+            "label": "Redgrave, Michael",
+            "size": 10.0,
+            "x": -655.482177734375,
+            "y": 28.689130783081055
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "340",
+            "label": "Robeson, Paul, 1898-1976",
+            "size": 10.0,
+            "x": -639.25830078125,
+            "y": -43.87693786621094
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "309",
+            "label": "Toronto Workshop Productions Archives.",
+            "size": 10.0,
+            "x": -620.553955078125,
+            "y": -29.291276931762695
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "403",
+            "label": "Left Book Club (London, England)",
+            "size": 10.0,
+            "x": -523.2564086914062,
+            "y": -100.51793670654297
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "361",
+            "label": "Hooper, Arthur Sanderson (Major AS Hooper)",
+            "size": 10.0,
+            "x": -737.3443603515625,
+            "y": -11.20931339263916
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "278",
+            "label": "Harry Milton papers",
+            "size": 10.0,
+            "x": -649.6123657226562,
+            "y": 74.21781158447266
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "296",
+            "label": "Orr, Charles Andrew, 1906-",
+            "size": 10.0,
+            "x": -573.701904296875,
+            "y": 37.706886291503906
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "342",
+            "label": "Martin, Kingsley, 1897-1969",
+            "size": 10.0,
+            "x": -646.2264404296875,
+            "y": 97.93760681152344
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "360",
+            "label": "Goldring, Douglas, 1887-1960",
+            "size": 10.0,
+            "x": -631.0333862304688,
+            "y": 60.22539138793945
+        },
+        {
+            "attributes": {
+                "Modularity Class": "1"
+            },
+            "color": "rgb(223,121,207)",
+            "id": "241",
+            "label": "Foley, Katharine",
+            "size": 10.0,
+            "x": -568.38720703125,
+            "y": -123.7382583618164
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "367",
+            "label": "Morley, Iris",
+            "size": 10.0,
+            "x": -790.2874145507812,
+            "y": 18.627819061279297
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "328",
+            "label": "Foot, Michael",
+            "size": 10.0,
+            "x": -634.2918090820312,
+            "y": 36.62582778930664
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "315",
+            "label": "Woodcock, George, 1912-1995.",
+            "size": 10.0,
+            "x": -696.3396606445312,
+            "y": -107.16153717041016
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "319",
+            "label": "Darlington, C. D. (Cyril Dean), 1903-1981",
+            "size": 10.0,
+            "x": -677.2991943359375,
+            "y": -92.84439086914062
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "348",
+            "label": "Anderson, John",
+            "size": 10.0,
+            "x": -660.4839477539062,
+            "y": -131.60292053222656
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "120",
+            "label": "Macdonald, Dwight.",
+            "size": 10.0,
+            "x": -320.14642333984375,
+            "y": -7.894195556640625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "365",
+            "label": "Litauer, Stefan",
+            "size": 10.0,
+            "x": -758.3657836914062,
+            "y": -46.16184997558594
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "337",
+            "label": "Day Lewis, C. (Cecil), 1904-1972",
+            "size": 10.0,
+            "x": -698.75927734375,
+            "y": -35.83721160888672
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "288",
+            "label": "Murry, John Middleton, 1889-1957.",
+            "size": 10.0,
+            "x": -599.916748046875,
+            "y": -17.57242202758789
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "321",
+            "label": "Gollancz, Victor, 1893-1967",
+            "size": 10.0,
+            "x": -602.9747314453125,
+            "y": -150.5362091064453
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "144",
+            "label": "New Directions Publishing Corp.",
+            "size": 10.0,
+            "x": -325.4013671875,
+            "y": -36.33732604980469
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "314",
+            "label": "Walcutt, Sue.",
+            "size": 10.0,
+            "x": -619.4004516601562,
+            "y": -3.8608458042144775
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "267",
+            "label": "Deak, Jon.",
+            "size": 10.0,
+            "x": -657.2360229492188,
+            "y": -80.15583801269531
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "400",
+            "label": "Encounter",
+            "size": 10.0,
+            "x": -356.0826721191406,
+            "y": -72.91067504882812
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "345",
+            "label": "Orwell, Sonia.",
+            "size": 10.0,
+            "x": -618.5737915039062,
+            "y": 19.89809226989746
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "279",
+            "label": "International Brigades.",
+            "size": 10.0,
+            "x": -714.5394287109375,
+            "y": 45.3502082824707
+        },
+        {
+            "attributes": {
+                "Modularity Class": "1"
+            },
+            "color": "rgb(223,121,207)",
+            "id": "317",
+            "label": "Koestler, Arthur, 1905-1983",
+            "size": 10.0,
+            "x": -425.27825927734375,
+            "y": -204.13229370117188
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "266",
+            "label": "Danielson, Richard Ely, 1885-1957.",
+            "size": 10.0,
+            "x": -717.9081420898438,
+            "y": -23.587276458740234
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "352",
+            "label": "Carr, E. H.",
+            "size": 10.0,
+            "x": -716.2138061523438,
+            "y": 22.186296463012695
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "289",
+            "label": "NDWT Archives (University of Guelph)",
+            "size": 10.0,
+            "x": -693.3850708007812,
+            "y": 55.671783447265625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "355",
+            "label": "Calder-Marshall, Arthur",
+            "size": 10.0,
+            "x": -666.8719482421875,
+            "y": 110.99271392822266
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "362",
+            "label": "Jacob, Alaric",
+            "size": 10.0,
+            "x": -783.9342041015625,
+            "y": 45.55696487426758
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "351",
+            "label": "Blackett, P. M. S. (Patrick Maynard Stuart), Baron Blackett, 1897-1974",
+            "size": 10.0,
+            "x": -718.1255493164062,
+            "y": -95.37140655517578
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "305",
+            "label": "Spain. Ejército Popular de la República. Brigada Internacional.",
+            "size": 10.0,
+            "x": -712.327880859375,
+            "y": 91.98139190673828
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "380",
+            "label": "Orwell, George, 1903-1950",
+            "size": 10.0,
+            "x": -657.7857666015625,
+            "y": -8.909398078918457
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "343",
+            "label": "Eliot, T. S. (Thomas Stearns), 1888-1965",
+            "size": 10.0,
+            "x": -599.6749877929688,
+            "y": -40.87240219116211
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "359",
+            "label": "Dover, Cedric Cyril",
+            "size": 10.0,
+            "x": -734.1204833984375,
+            "y": 57.9577751159668
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "132",
+            "label": "Miller, Henry, 1891-1980.",
+            "size": 10.0,
+            "x": -359.2022705078125,
+            "y": 5.330471992492676
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "325",
+            "label": "Pauker, Ana",
+            "size": 10.0,
+            "x": -735.0211181640625,
+            "y": 81.3365249633789
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "369",
+            "label": "Macmurray, John, 1891-1976",
+            "size": 10.0,
+            "x": -757.64306640625,
+            "y": 24.8962345123291
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "291",
+            "label": "Nelson, Steve, 1903-",
+            "size": 10.0,
+            "x": -597.9921875,
+            "y": 5.829963207244873
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "334",
+            "label": "Puchev, V.",
+            "size": 10.0,
+            "x": -669.0218505859375,
+            "y": 87.54898071289062
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "349",
+            "label": "Aldred, Guy Alfred, 1886-1963",
+            "size": 10.0,
+            "x": -696.975341796875,
+            "y": -13.191849708557129
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "310",
+            "label": "Toronto Workshop Productions Archives (University of Guelph)",
+            "size": 10.0,
+            "x": -759.92822265625,
+            "y": -70.10248565673828
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "299",
+            "label": "Shaw Festival Collection (University of Guelph)",
+            "size": 10.0,
+            "x": -778.5687866210938,
+            "y": -33.981468200683594
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "344",
+            "label": "Bryan, Joseph, III.",
+            "size": 10.0,
+            "x": -718.6270141601562,
+            "y": -46.95124053955078
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "294",
+            "label": "New York University.",
+            "size": 10.0,
+            "x": -757.4835815429688,
+            "y": 1.2744786739349365
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "21",
+            "label": "Blunden, Edmund, 1896-1974.",
+            "size": 10.0,
+            "x": -351.0750427246094,
+            "y": -21.99620819091797
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "401",
+            "label": "Congress for Cultural Freedom.",
+            "size": 10.0,
+            "x": -386.5054931640625,
+            "y": -59.20817184448242
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "350",
+            "label": "Beavan, John (Baron Ardwick)",
+            "size": 10.0,
+            "x": -697.15185546875,
+            "y": 9.744625091552734
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "320",
+            "label": "Borkenau, Franz, 1900-1957",
+            "size": 10.0,
+            "x": -608.6596069335938,
+            "y": 69.8637466430664
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "364",
+            "label": "Kohn, Marjorie",
+            "size": 10.0,
+            "x": -676.9885864257812,
+            "y": 20.009246826171875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "336",
+            "label": "Priestley, J. B. (John Boynton), 1894-",
+            "size": 10.0,
+            "x": -615.4032592773438,
+            "y": -78.77752685546875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "165",
+            "label": "Prokosch, Frederic, 1908-1989.",
+            "size": 10.0,
+            "x": -332.40655517578125,
+            "y": 17.75544548034668
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "333",
+            "label": "Feather, Vic",
+            "size": 10.0,
+            "x": -718.6153564453125,
+            "y": -70.42080688476562
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "280",
+            "label": "Leab, Daniel J.",
+            "size": 10.0,
+            "x": -658.698486328125,
+            "y": -56.70835494995117
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "356",
+            "label": "Deutscher, Isaac, 1907-1967",
+            "size": 10.0,
+            "x": -677.99853515625,
+            "y": -44.60100555419922
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "268",
+            "label": "Factory Theatre Lab Archives.",
+            "size": 10.0,
+            "x": -671.46435546875,
+            "y": 65.00486755371094
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "354",
+            "label": "Crowther, J. G. (James Gerald), 1899-",
+            "size": 10.0,
+            "x": -613.100830078125,
+            "y": 45.30261993408203
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "295",
+            "label": "Orr, Charles A. (Charles Andrew)",
+            "size": 10.0,
+            "x": -691.0761108398438,
+            "y": 78.55743408203125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "371",
+            "label": "Mackenzie, Norman Ian",
+            "size": 10.0,
+            "x": -717.1953735351562,
+            "y": -0.7413730621337891
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "286",
+            "label": "Milton, Harry.",
+            "size": 10.0,
+            "x": -695.3742065429688,
+            "y": 32.9873046875
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "329",
+            "label": "Benn, Tony, 1925-",
+            "size": 10.0,
+            "x": -618.3602294921875,
+            "y": -54.59456253051758
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "284",
+            "label": "Marzani, Carl",
+            "size": 10.0,
+            "x": -737.4965209960938,
+            "y": 11.607565879821777
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "353",
+            "label": "Chaplin, Charles, 1825-1891",
+            "size": 10.0,
+            "x": -738.5418701171875,
+            "y": -58.39302444458008
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "324",
+            "label": "Naval Commander Young",
+            "size": 10.0,
+            "x": -575.5940551757812,
+            "y": 13.587461471557617
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "323",
+            "label": "Struve, Gleb",
+            "size": 10.0,
+            "x": -577.4021606445312,
+            "y": -10.534662246704102
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "339",
+            "label": "Welles, Orson, 1915-1985",
+            "size": 10.0,
+            "x": -738.99365234375,
+            "y": -82.92523193359375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "326",
+            "label": "Kirwan, Celia",
+            "size": 10.0,
+            "x": -674.3427734375,
+            "y": 42.568424224853516
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "306",
+            "label": "Štanský, Peter.",
+            "size": 10.0,
+            "x": -678.0850219726562,
+            "y": -68.99276733398438
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "308",
+            "label": "Theatre Passe Muraille Archives (University of Guelph)",
+            "size": 10.0,
+            "x": -757.7415771484375,
+            "y": -21.990243911743164
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "287",
+            "label": "Moore, Lorna.",
+            "size": 10.0,
+            "x": -755.7215576171875,
+            "y": 48.880882263183594
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "298",
+            "label": "Reginald, R.",
+            "size": 10.0,
+            "x": -635.5374755859375,
+            "y": -92.04067993164062
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "357",
+            "label": "Duranty, Walter, 1884-1957",
+            "size": 10.0,
+            "x": -656.515380859375,
+            "y": -104.3707275390625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "358",
+            "label": "Driberg, Tom, 1905-1976",
+            "size": 10.0,
+            "x": -698.3577880859375,
+            "y": -58.605716705322266
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "270",
+            "label": "Fedotoff-White, D., (Dmitriĭ), 1889-1950.",
+            "size": 10.0,
+            "x": -652.697021484375,
+            "y": 51.339202880859375
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "276",
+            "label": "Fuller, Roy, 1912-1991.",
+            "size": 10.0,
+            "x": -590.9713134765625,
+            "y": 54.376888275146484
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "402",
+            "label": "Horizon; a review of literature and art. London.",
+            "size": 10.0,
+            "x": -388.7596130371094,
+            "y": -92.06242370605469
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "347",
+            "label": "Great Britain. Foreign Office. Information Research Dept.",
+            "size": 10.0,
+            "x": -555.3348999023438,
+            "y": -150.0089874267578
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "272",
+            "label": "Fen, Elisaveta.",
+            "size": 10.0,
+            "x": -738.087158203125,
+            "y": -34.44035720825195
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "277",
+            "label": "Graziato, Massimo, 1967-",
+            "size": 10.0,
+            "x": -596.1843872070312,
+            "y": 29.310972213745117
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "281",
+            "label": "Lechoń, Jan, 1899-1956.",
+            "size": 10.0,
+            "x": -712.7122802734375,
+            "y": 68.48493194580078
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "271",
+            "label": "Fen, Elisaveta",
+            "size": 10.0,
+            "x": -637.9267578125,
+            "y": -67.52597045898438
+        },
+        {
+            "attributes": {
+                "Modularity Class": "1"
+            },
+            "color": "rgb(223,121,207)",
+            "id": "239",
+            "label": "Fischer, Ruth, 1895-",
+            "size": 10.0,
+            "x": -552.2341918945312,
+            "y": -99.34765625
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "346",
+            "label": "Warburg, Fredric, 1898-",
+            "size": 10.0,
+            "x": -576.924072265625,
+            "y": -34.993507385253906
+        },
+        {
+            "attributes": {
+                "Modularity Class": "1"
+            },
+            "color": "rgb(223,121,207)",
+            "id": "146",
+            "label": "New Yorker Magazine, Inc",
+            "size": 10.0,
+            "x": -358.016845703125,
+            "y": -105.43180847167969
+        },
+        {
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(92,180,51)",
+            "id": "307",
+            "label": "Symons, Julian, 1912-",
+            "size": 10.0,
+            "x": -689.6653442382812,
+            "y": 101.67626953125
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "332",
+            "label": "Russell, Bertrand, 1872-1970",
+            "size": 10.0,
+            "x": -735.2993774414062,
+            "y": 34.76908874511719
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "335",
+            "label": "Muggeride, Malcom",
+            "size": 10.0,
+            "x": -595.0105590820312,
+            "y": -64.34164428710938
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "318",
+            "label": "Gillie, D'Arcy",
+            "size": 10.0,
+            "x": -778.533203125,
+            "y": -8.478495597839355
+        },
+        {
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(255,238,5)",
+            "id": "338",
+            "label": "O'Casey, Sean, 1880-1964",
+            "size": 10.0,
+            "x": -627.00830078125,
+            "y": 84.33053588867188
+        },
+        {
+            "attributes": {
+                "Modularity Class": "1"
+            },
+            "color": "rgb(223,121,207)",
+            "id": "240",
+            "label": "Foley, Donald L.",
+            "size": 10.0,
+            "x": -535.18408203125,
+            "y": -128.0270233154297
+        }
+    ]
+}
