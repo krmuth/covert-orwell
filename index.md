@@ -11,4 +11,4 @@ Using [Encoded Archival Context–Corporate Bodies, Persons, and Families (EAC-C
 [George Orwell's SNAC relation constellation](https://krmuth.github.io/orwell.node/visualisations/orwell/orwell-ego/snac/)  
 [George Orwell's (covert) relation constellation](https://krmuth.github.io/orwell.node/visualisations/orwell/orwell-ego/full/)  
 [Expanded SNAC relation constellation (Orwell, Koestler, Spender)](https://krmuth.github.io/orwell.node/visualisations/orwell/triad/snac/)  
-[Expanded SNAC relation constellation (Orwell, Koestler, Spender)](https://krmuth.github.io/orwell.node/visualisations/orwell/triad/full/)  
+[Expanded (covert) relation constellation (Orwell, Koestler, Spender)](https://krmuth.github.io/orwell.node/visualisations/orwell/triad/full/)  
