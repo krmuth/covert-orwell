@@ -1,12 +1,5 @@
 {
-  "attributes": {
-    "creator": "Gephi 0.10.1"
-  },
-  "options": {
-    "multi": false,
-    "allowSelfLoops": true,
-    "type": "undirected"
-  },
+
   "nodes": [
     {
       "key": "11014878",
