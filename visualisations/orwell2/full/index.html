@@ -20,7 +20,7 @@
   <script>
     const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
-        .jsonUrl('http://localhost:8000/visualisations/datasets/orwell2-full3.json')
+        .jsonUrl('https://raw.githubusercontent.com/krmuth/orwell.node/master/visualisations/datasets/orwell2-full3.json')
         .nodeAutoColorBy('group')
 //         .nodeLabel(node => `${node.attributes.description}`)
         .nodeThreeObject(node => {
