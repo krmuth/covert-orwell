@@ -12,5 +12,5 @@ Using [Encoded Archival Context–Corporate Bodies, Persons, and Families (EAC-C
 [George Orwell's (covert) relation constellation (1 degree)](https://krmuth.github.io/orwell.node/visualisations/orwell/orwell-ego/full/){:target="blank"}  
 [Expanded SNAC relation constellation (2 degree triad)](https://krmuth.github.io/orwell.node/visualisations/orwell/triad/snac/){:target="blank"}   
 [Expanded (covert) relation constellation (2 degree triad)](https://krmuth.github.io/orwell.node/visualisations/orwell/triad/full/){:target="blank"}  
-[Expanded (covert) relation constellation (2 degree SNAC data)](https://krmuth.github.io/orwell.node/visualisations/orwell2/full/){:target="blank"}
+[Expanded (covert) relation constellation (2 degree SNAC data)](https://krmuth.github.io/orwell.node/visualisations/orwell2/full/){:target="blank"}  
 [Filtered (covert) relation constellation (2 degree SNAC data)](https://krmuth.github.io/orwell.node/visualisations/orwell2/){:target="blank"}
