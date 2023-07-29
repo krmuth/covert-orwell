@@ -13,4 +13,4 @@ Using [Encoded Archival Context–Corporate Bodies, Persons, and Families (EAC-C
 [Sample triad SNAC relation constellation (root + 2 neighbour constellations)](https://krmuth.github.io/orwell.node/visualisations/orwell/triad/snac/){:target="blank"}   
 [Sample triad (covert) relation constellation (root + 2 neighbour constellations)](https://krmuth.github.io/orwell.node/visualisations/orwell/triad/full/){:target="blank"}  
 [Expanded (covert) relation constellation (root + SNAC neighbour constellations)](https://krmuth.github.io/orwell.node/visualisations/orwell2/full/){:target="blank"}  
-[Filtered expanded (covert) relation constellation (root + SNAC neighbour constellations, degree ≥ 2)](https://krmuth.github.io/orwell.node/visualisations/orwell2/){:target="blank"}
+[Filtered expanded (covert) relation constellation (degree ≥ 2)](https://krmuth.github.io/orwell.node/visualisations/orwell2/){:target="blank"}
