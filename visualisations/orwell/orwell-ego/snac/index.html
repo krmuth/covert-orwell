@@ -23,7 +23,7 @@
         .jsonUrl('https://raw.githubusercontent.com/krmuth/orwell.node/master/visualisations/datasets/orwell-WIP-orwell-snac-ego.json')
         .nodeAutoColorBy('group')
         .nodeThreeObject(node => {
-          const sprite = new SpriteText(node.id);
+          const sprite = new SpriteText(node.label);
           sprite.material.depthWrite = false; // make sprite background transparent
           sprite.color = node.color;
           sprite.textHeight = 8;
