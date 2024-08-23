@@ -17,6 +17,6 @@ Using [Encoded Archival Context–Corporate Bodies, Persons, and Families (EAC-C
 
 ### DH2024 slide deck
 
-<iframe width="100%" height="400" src="https://krmuth.github.io/assets/butler/index.html"></iframe>
+<iframe width="100%" height="400" src="https://krmuth.github.io/assets/dh2024/index.html"></iframe>
 
-[open deck](https://krmuth.github.io/assets/butler/index.html)
+[open deck](https://krmuth.github.io/assets/dh2024/index.html)
