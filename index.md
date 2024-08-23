@@ -1,6 +1,6 @@
 # George Orwell's (Covert) Networks
 
-TEST Since the millennial turn, access to new archives has invigorated scholarship into the ‘cultural Cold War’, but archival information silos and the conflict’s global scope prevent researchers from viewing large-scale networks and relationships. **Mapping the Cultural/Intelligence Nexus** will link archival authority records to display relational information about figures and agencies within covert propaganda networks. 
+Since the millennial turn, access to new archives has invigorated scholarship into the ‘cultural Cold War’, but archival information silos and the conflict’s global scope prevent researchers from viewing large-scale networks and relationships. **Mapping the Cultural/Intelligence Nexus** will link archival authority records to display relational information about figures and agencies within covert propaganda networks. 
 
 This demo takes the novelist George Orwell as its central node. 
 
@@ -14,3 +14,9 @@ Using [Encoded Archival Context–Corporate Bodies, Persons, and Families (EAC-C
 [Sample triad (covert) relation constellation (root + 2 neighbour constellations)](https://krmuth.github.io/orwell.node/visualisations/orwell/triad/full/){:target="blank"}  
 [Expanded (covert) relation constellation (root + SNAC neighbour constellations)](https://krmuth.github.io/orwell.node/visualisations/orwell2/full/){:target="blank"}  
 [Filtered expanded (covert) relation constellation (degree ≥ 2)](https://krmuth.github.io/orwell.node/visualisations/orwell2/){:target="blank"}
+
+## Slide deck for presentation at DH2024, 7 August 2024
+
+<iframe width="100%" height="400" src="{{ site.baseurl }}assets/dh2024/index.html"></iframe>
+
+[open deck]({{ site.baseurl }}/assets/dh2024/index.html)
