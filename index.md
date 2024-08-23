@@ -8,12 +8,6 @@ This demo takes the novelist George Orwell as its central node.
 
 Using [Encoded Archival Context–Corporate Bodies, Persons, and Families (EAC-CPF)](https://eac.staatsbibliothek-berlin.de/), we aim to connect local record instances with archival repositories, allowing researchers to discover network connections and heritage materials related to state-sponsored cultural activities in WWII and the Cold War period. 
 
-## Slide deck for presentation at DH2024, 7 August 2024
-
-<iframe width="100%" height="400" src="{{ site.baseurl }}assets/dh2024/index.html"></iframe>
-
-[open deck]({{ site.baseurl }}/assets/dh2024/index.html)
-
 [George Orwell's SNAC relation constellation (root)](https://krmuth.github.io/orwell.node/visualisations/orwell/orwell-ego/snac/){:target="blank"}  
 [George Orwell's (covert) relation constellation (root)](https://krmuth.github.io/orwell.node/visualisations/orwell/orwell-ego/full/){:target="blank"}  
 [Sample triad SNAC relation constellation (root + 2 neighbour constellations)](https://krmuth.github.io/orwell.node/visualisations/orwell/triad/snac/){:target="blank"}   
