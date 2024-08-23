@@ -1,6 +1,6 @@
 # George Orwell's (Covert) Networks
 
-TESTING!!! Since the millennial turn, access to new archives has invigorated scholarship into the ‘cultural Cold War’, but archival information silos and the conflict’s global scope prevent researchers from viewing large-scale networks and relationships. **Mapping the Cultural/Intelligence Nexus** will link archival authority records to display relational information about figures and agencies within covert propaganda networks. 
+TEST Since the millennial turn, access to new archives has invigorated scholarship into the ‘cultural Cold War’, but archival information silos and the conflict’s global scope prevent researchers from viewing large-scale networks and relationships. **Mapping the Cultural/Intelligence Nexus** will link archival authority records to display relational information about figures and agencies within covert propaganda networks. 
 
 This demo takes the novelist George Orwell as its central node. 
 
