@@ -17,8 +17,12 @@ Using [Encoded Archival Context–Corporate Bodies, Persons, and Families (EAC-C
 [Expanded (covert) relation constellation (root + SNAC neighbour constellations)](https://krmuth.github.io/orwell.node/visualisations/orwell2/full/){:target="blank"}  
 [Filtered expanded (covert) relation constellation (degree ≥ 2)](https://krmuth.github.io/orwell.node/visualisations/orwell2/){:target="blank"}
 
-### Presentation deck from DH2024 (paper forthcoming)
+### DH2024 presentation deck  
 
 <iframe width="100%" height="400" src="https://krmuth.github.io/assets/dh2024/index.html"></iframe>
 
 [open deck](https://krmuth.github.io/assets/dh2024/index.html)
+
+
+### DH2024 abstract
+Muth, Katie, and James Smith. 'Linked Data in the Cold War Archive'. In Jajwalya Karajgikar, Andrew Janco, and Jessica Otis. 'DH2024 Book of Abstracts'. Zenodo, September 24, 2024. 492–7. [https://doi.org/10.5281/zenodo.13834936](https://doi.org/10.5281/zenodo.13834936).
